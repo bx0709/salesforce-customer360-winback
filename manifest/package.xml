@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+    <!-- Data ingestion -->
+    <types>
+        <members>*</members>
+        <name>DataStreamDefinition</name>
+    </types>
+    <types>
+        <members>*</members>
+        <name>DataConnectorIngestApi</name>
+    </types>
+    <types>
+        <members>*</members>
+        <name>InternalDataConnector</name>
+    </types>
+    <!-- DLO → DMO field mappings -->
+    <types>
+        <members>*</members>
+        <name>DataSrcDataModelFieldMap</name>
+    </types>
+    <!-- Calculated Insights -->
+    <types>
+        <members>*</members>
+        <name>MktCalcInsightObjectDef</name>
+    </types>
+    <!-- Segmentation (planned Phase 4) -->
+    <types>
+        <members>*</members>
+        <name>MarketSegmentDefinition</name>
+    </types>
+    <version>65.0</version>
+</Package>

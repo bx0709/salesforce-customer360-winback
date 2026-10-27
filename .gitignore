@@ -1,0 +1,22 @@
+# Real org data exports — never commit
+data/org-exports/
+*__dll-*.csv
+*__dlm-*.csv
+
+# Salesforce DX
+.sfdx/
+.sf/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.env
+venv/
+
+# macOS
+.DS_Store
+
+# Misc
+*.sqlite3
+*.log

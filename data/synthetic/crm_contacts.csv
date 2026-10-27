@@ -1,0 +1,949 @@
+FirstName,LastName,Email,Phone,MailingCity,MailingState,MailingCountry,Birthdate,LeadSource,HasOptedOutOfEmail,Description
+N.,Verma,nikhil.verma1975@gmail.com,06013389083,Bengaluru,Karnataka,India,1971-12-23,Web,false,Legacy ID: CRM-000001
+Vikram,Mehta,vikram.mehta1999@gmail.com,09184959310,Noida,Uttar Pradesh,India,1981-08-10,Phone Inquiry,false,Legacy ID: CRM-000002
+Karan,Pandey,karan.pandey@yahoo.co.in,6305641395,Pune,Maharashtra,India,1976-10-14,Web,true,Legacy ID: CRM-000003
+Harsh,Menon,harsh.menon20@gmail.com,06669784801,Delhi,Delhi,India,1999-03-07,Web,false,Legacy ID: CRM-000004
+Aditi,Khan,aditi.khan1970@gmail.com,9015430391,Mumbai,Maharashtra,India,1988-09-02,Other,true,Legacy ID: CRM-000005
+Sneha,Kumar,sneha.kumar@outlook.com,9736026064,Chandigarh,Chandigarh,India,1990-12-25,Purchased List,true,Legacy ID: CRM-000006
+Meera,Glil,meera.gill1999@gmail.com,06183842513,Chandigarh,Chandigarh,India,1978-06-07,Phone Inquiry,true,Legacy ID: CRM-000007
+Kabir,Gill,kabir.gill@gmail.com,08874016400,Gurgaon,Haryana,India,1968-05-17,Phone Inquiry,true,Legacy ID: CRM-000008
+Yash,Bose,YASH.BOSE@YAHOO.CO.IN,6533158692,Gurugram,Haryana,India,1972-02-22,Web,true,Legacy ID: CRM-000009
+Reynsh,Chatterjee,reyansh.chatterjee4@gmail.com,+91-8145868501,Delhi,Delhi,India,1984-07-29,Other,false,Legacy ID: CRM-000010
+Swaati,Mishra,swati.mishra@outlook.com,6595148465,Delhi,Delhi,India,1978-07-02,Web,false,Legacy ID: CRM-000011
+sIha,Pillai,isha.pillai1@hotmail.com,78708-31727,Bengaluru,Karnataka,India,1976-08-17,Partner Referral,true,Legacy ID: CRM-000012
+Taanvi,Bhardwaj,tanvi.bhardwaj@yahoo.co.in,+91-8581223623,Bengaluru,Karnataka,India,1982-06-22,Other,true,Legacy ID: CRM-000013
+N.,Bhardwaj,nikhil.bhardwaj87@gmail.com,7193149190,Hyderabad,Telangana,India,1969-09-26,Partner Referral,false,Legacy ID: CRM-000014
+Rashmi,Pillai,rashmi.pillai79@hotmail.com,8531473799,Delhi,Delhi,India,1980-04-08,Phone Inquiry,false,Legacy ID: CRM-000015
+Tanvi,Yadav,tanvi.yadav98@yahoo.co.in,+91 97014 36349,Gurugram,Haryana,India,1977-02-25,Web,false,Legacy ID: CRM-000016
+Vandana,Kulkarni,vandana.kulkarni@gmail.com,62294-13186,Noida,Uttar Pradesh,India,1992-11-09,Web,false,Legacy ID: CRM-000017
+Nisha,Mishra,nisha.mishra1981@hotmail.com,+91 91756 55125,Gurugram,Haryana,India,1979-07-03,Web,false,Legacy ID: CRM-000018
+aSna,Sharma,sana.sharma47@gmail.com,+91 63482 47710,Pune,Maharashtra,India,1985-09-13,Web,true,Legacy ID: CRM-000019
+Ramesh,Patel,ramesh.patel@hotmail.com,90576-62702,Chandigarh,Chandigarh,India,1968-05-10,Partner Referral,true,Legacy ID: CRM-000020
+Naveen,Desai,naveen.desai49@gmail.com,+91 73747 40748,Mumbai,Maharashtra,India,1973-12-08,Web,true,Legacy ID: CRM-000021
+Vikkram,Sethi,vikram.sethi@hotmail.com,06974395339,Noida,Uttar Pradesh,India,1969-01-16,Partner Referral,true,Legacy ID: CRM-000022
+Vikram,Sethi,,6974395339,Noida,Uttar Pradesh,India,,Phone Inquiry,false,Legacy ID: CRM-000023
+ANKIT,ANSARI,ankit.ansari@gmail.com,09351585064,Gurugram,Haryana,India,1970-08-26,Web,true,Legacy ID: CRM-000024
+Neha,Tiwari,neha.tiwari@outlook.com,8210205395,Delhi,Delhi,India,1985-02-09,Purchased List,true,Legacy ID: CRM-000025
+Vikram,Kulkarni,vikram.kulkarni@hotmail.com,9661771159,Mumbai,Maharashtra,India,1988-10-19,Phone Inquiry,false,Legacy ID: CRM-000026
+Farhan,Pandey,farhan.pandey99@hotmail.com,76576-61565,Chandigarh,Chandigarh,India,1998-05-27,Web,true,Legacy ID: CRM-000027
+Arjun,Pandey,arjun.pandey@hotmail.com,+91 79612 01836,Kolkata,West Bengal,India,1967-05-12,Purchased List,false,Legacy ID: CRM-000028
+Ishaan,Thakur,ishaan.thakur@outlook.com,65614-97840,Gurugram,Haryana,India,1977-12-26,Phone Inquiry,true,Legacy ID: CRM-000029
+Kunal,Kapoor,kunal.kapoor46@outlook.com,+91 66071 59696,Gurugram,Haryana,India,1968-12-14,Other,false,Legacy ID: CRM-000030
+Gurpreet,Khan,gurpreet.khan@hotmail.com,64770-05411,Noida,Uttar Pradesh,India,1986-05-03,Other,false,Legacy ID: CRM-000031
+M.,Sethi,mohit.sethi@gmail.com,6472779010,Noida,Uttar Pradesh,India,1978-07-06,Other,false,Legacy ID: CRM-000032
+Rashmi,Kumar,rashmi.kumar@outlook.com,+91 69539 62185,Gurugram,Haryana,India,1993-07-07,Web,false,Legacy ID: CRM-000033
+Anjali,Gupta,anjali.gupta@gmail.com,+91-8667652775,Bengaluru,Karnataka,India,1969-08-08,Web,true,Legacy ID: CRM-000034
+Pallavi,Menon,pallavi.menon@outlook.com,+91 60278 68144,Noida,Uttar Pradesh,India,1972-09-29,Other,true,Legacy ID: CRM-000035
+Amit,Thakur,amit.thakur@outlook.com,+91 75831 32370,Jaipur,Rajasthan,India,1978-11-16,Web,false,Legacy ID: CRM-000036
+Vandana,Das,vandana.das83@gmail.com,08289226801,Chandigarh,Chandigarh,India,1976-03-29,Purchased List,false,Legacy ID: CRM-000037
+Tanvi,Bansal,tanvi.bansal@hotmail.com,8900109439,Pune,Maharashtra,India,1978-05-06,Web,false,Legacy ID: CRM-000038
+Ananya,Kulkarni,ananya.kulkarni@gmail.com,+91-7588153714,Chandigarh,Chandigarh,India,1972-03-01,Partner Referral,true,Legacy ID: CRM-000039
+Harpreet,Khanna,harpreet.khanna@yahoo.co.in,09339500479,Bengaluru,Karnataka,India,1981-06-01,Purchased List,false,Legacy ID: CRM-000040
+Isha,Menon,isha.menon@outlook.com,95585-23986,Mumbai,Maharashtra,India,1988-02-16,Purchased List,false,Legacy ID: CRM-000041
+Deepak,Chopra,deepak.chopra25@hotmail.com,92636-89702,Hyderabad,Telangana,India,1980-05-10,Purchased List,false,Legacy ID: CRM-000042
+Shreya,Saxena,SHREYA.SAXENA91@GMAIL.COM,+91 95844 19866,Mumbai,Maharashtra,India,1974-08-07,Phone Inquiry,false,Legacy ID: CRM-000043
+Nisha,Banssal,nisha.bansal@gmail.com,06657120826,Gurugram,Haryana,India,1989-01-02,Purchased List,true,Legacy ID: CRM-000044
+J.,Sandhu,jasleen.sandhu@hotmail.com,9122753046,Mumbai,Maharashtra,India,1996-01-29,Web,false,Legacy ID: CRM-000045
+Nikhil,Singh,nikhil.singh@gmail.com,+91-7971870728,Hyderabad,Telangana,India,2001-08-16,Partner Referral,false,Legacy ID: CRM-000046
+Karan,Gupta,karan.gupta@gmail.com,72656-76618,Chandigarh,Chandigarh,India,1998-12-03,Partner Referral,false,Legacy ID: CRM-000047
+Ramesh,Joshi,ramesh.joshi@gmail.com,99033-11907,Mumbai,Maharashtra,India,1987-08-09,Purchased List,true,Legacy ID: CRM-000048
+Harpreet,Mishra,HARPREET.MISHRA85@GMAIL.COM,08089268705,Pune,Maharashtra,India,1986-03-30,Web,false,Legacy ID: CRM-000049
+Krishna,Mishra,krishna.mishra@outlook.com,07536937854,Chennai,Tamil Nadu,India,1989-04-27,Purchased List,true,Legacy ID: CRM-000050
+Deepak,Mehta,deepak.mehta35@gmail.com,7655110475,Bengaluru,Karnataka,India,1983-04-22,Other,false,Legacy ID: CRM-000051
+Amit,Pandey,amit.pandey1975@gmail.com,07622444721,Pune,Maharashtra,India,1997-05-04,Other,false,Legacy ID: CRM-000052
+Ankit,Mehta,ankit.mehta@yahoo.co.in,06775140105,Gurugram,Haryana,India,1985-09-23,Purchased List,false,Legacy ID: CRM-000053
+Saanvi,Kapoor,saanvi.kapoor58@outlook.com,07341918255,Pune,Maharashtra,India,1982-08-11,Web,true,Legacy ID: CRM-000054
+Imran,Yadav,imran.yadav70@outlook.com,+91-7613407451,Mumbai,Maharashtra,India,1971-04-01,Other,true,Legacy ID: CRM-000055
+Rohan,Mishra,rohan.mishra1988@gmail.com,62604-22325,Noida,Uttar Pradesh,India,1993-06-04,Web,true,Legacy ID: CRM-000056
+Rashmi,Verma,rashmi.verma@yahoo.co.in,+91 81541 52064,Gurugram,Haryana,India,1975-02-23,Web,true,Legacy ID: CRM-000057
+Harsh,Mehta,harsh.mehta@gmail.com,78569-14630,Pune,Maharashtra,India,1970-05-11,Purchased List,false,Legacy ID: CRM-000058
+iVvaan,Malhotra,vivaan.malhotra@hotmail.com,81056-48149,Mumbai,Maharashtra,India,1972-01-22,Web,false,Legacy ID: CRM-000059
+Rhit,Deshpande,rohit.deshpande@gmail.com,89493-75973,Chennai,Tamil Nadu,India,1965-01-24,Phone Inquiry,true,Legacy ID: CRM-000060
+Rohit,Deshpande,,+91-8949375973,Chennai,Tamil Nadu,India,,Phone Inquiry,false,Legacy ID: CRM-000061
+Ritika,Jain,ritika.jain@gmail.com,+91 95719 18261,Delhi,Delhi,India,1985-04-23,Phone Inquiry,false,Legacy ID: CRM-000062
+Karan,Khanna,karan.khanna@gmail.com,6853747411,Gurugram,Haryana,India,1982-10-11,Web,false,Legacy ID: CRM-000063
+Shhreya,Kapoor,shreya.kapoor32@hotmail.com,7100323651,Gurgaon,Haryana,India,1966-12-01,Partner Referral,true,Legacy ID: CRM-000064
+Ramesh,Verma,ramesh.verma@outlook.com,+91-8205930407,Ahmedabad,Gujarat,India,1999-04-11,Purchased List,true,Legacy ID: CRM-000065
+Swati,Iyer,swati.iyer1992@gmail.com,+91-8992937842,Kolkata,West Bengal,India,1965-01-12,Partner Referral,false,Legacy ID: CRM-000066
+Anjai,Jain,anjali.jain53@yahoo.co.in,09179327104,Bengaluru,Karnataka,India,1989-07-16,Other,true,Legacy ID: CRM-000067
+S.,Qureshi,simran.qureshi@gmail.com,+91 64677 41862,Pune,Maharashtra,India,1975-02-24,Partner Referral,true,Legacy ID: CRM-000068
+Diya,Arrora,DIYA.ARORA1979@HOTMAIL.COM,08116868548,Hyderabad,Telangana,India,1990-06-02,Web,false,Legacy ID: CRM-000069
+Sandep,Jain,sandeep.jain53@outlook.com,99970-24629,Mumbai,Maharashtra,India,1980-02-27,Web,true,Legacy ID: CRM-000070
+pooja,bhatia,POOJA.BHATIA3@YAHOO.CO.IN,7903494466,Pune,Maharashtra,India,1969-08-04,Phone Inquiry,false,Legacy ID: CRM-000071
+Mohit,Yadav,mohit.yadav@gmail.com,8444328309,Pune,Maharashtra,India,1998-01-18,Partner Referral,false,Legacy ID: CRM-000072
+Isha,Nair,ISHA.NAIR@YAHOO.CO.IN,+91 78241 72482,Bengaluru,Karnataka,India,1991-04-08,Purchased List,false,Legacy ID: CRM-000073
+Neha,Rathore,neha.rathore79@gmail.com,09760083505,Bangalore,Karnataka,India,1987-07-31,Partner Referral,false,Legacy ID: CRM-000074
+K.,Grewal,KRISHNA.GREWAL@OUTLOOK.COM,+91 83260 33230,Kolkata,West Bengal,India,1967-02-25,Partner Referral,false,Legacy ID: CRM-000075
+Aidtya,Singh,aditya.singh@outlook.com,64618-49926,Bengaluru,Karnataka,India,1973-12-17,Web,true,Legacy ID: CRM-000076
+Priya,Iyer,priya.iyer@yahoo.co.in,60119-72181,Bengaluru,Karnataka,India,1966-10-09,Web,true,Legacy ID: CRM-000077
+Vadnana,Mishra,vandana.mishra4@gmail.com,66701-45089,Bengaluru,Karnataka,India,1994-10-10,Purchased List,false,Legacy ID: CRM-000078
+Vikraam,Shah,vikram.shah1989@gmail.com,+91-7755037589,Chandigarh,Chandigarh,India,1989-07-27,Phone Inquiry,false,Legacy ID: CRM-000079
+Rohan,Rao,rohan.rao1984@gmail.com,+91-7840666580,Hyderabad,Telangana,India,1973-10-24,Partner Referral,true,Legacy ID: CRM-000080
+Simran,Kulkarni,simran.kulkarni66@gmail.com,09484229405,Delhi,Delhi,India,2000-06-07,Purchased List,false,Legacy ID: CRM-000081
+H.,Das,harpreet.das@outlook.com,07355543987,Delhi,Delhi,India,1982-02-09,Purchased List,true,Legacy ID: CRM-000082
+Lakshmi,Patel,lakshmi.patel1995@outlook.com,07450882100,Chandigarh,Chandigarh,India,1971-05-23,Partner Referral,false,Legacy ID: CRM-000083
+Anjali,Khanna,anjali.khanna@gmail.com,6413975523,Gurugram,Haryana,India,1994-07-31,Purchased List,false,Legacy ID: CRM-000084
+Varun,Reddy,varun.reddy@gmail.com,+91 82577 75478,Jaipur,Rajasthan,India,1997-08-19,Web,false,Legacy ID: CRM-000085
+Farhan,Khan,farhan.khan1986@outlook.com,9256394278,Gurugram,Haryana,India,1985-01-06,Web,false,Legacy ID: CRM-000086
+Dev,Chauhan,DEV.CHAUHAN@GMAIL.COM,,Bengaluru,Karnataka,India,1994-04-23,Web,true,Legacy ID: CRM-000087
+Karan,Das,karan.das1970@gmail.com,+91 92318 43222,Delhi,Delhi,India,1974-06-15,Web,false,Legacy ID: CRM-000088
+Gaurav,Verma,gaurav.verma1972@gmail.com,06242869904,Delhi,Delhi,India,1971-05-28,Partner Referral,true,Legacy ID: CRM-000089
+A.,Mishra,aarav.mishra@gmail.com,07694486959,Mumbai,Maharashtra,India,1989-11-22,Purchased List,false,Legacy ID: CRM-000090
+anjali,rao,anjali.rao1999@gmail.com,06714163356,Chandigarh,Chandigarh,India,1968-05-30,Web,false,Legacy ID: CRM-000091
+Harpreet,Iyer,harpreet.iyer@hotmail.com,+91-7433339521,Delhi,Delhi,India,1979-02-24,Web,false,Legacy ID: CRM-000092
+tanvi,banerjee,tanvi.banerjee@yahoo.co.in,+91 97808 56271,Delhi,Delhi,India,1992-06-27,Phone Inquiry,false,Legacy ID: CRM-000093
+Shreya,Sethi,SHREYA.SETHI@YAHOO.CO.IN,94729-29314,Delhi,Delhi,India,1983-11-29,Phone Inquiry,false,Legacy ID: CRM-000094
+Kiran,Bose,kiran.bose@outlook.com,7034717545,Bengaluru,Karnataka,India,1973-12-04,Partner Referral,false,Legacy ID: CRM-000095
+Suresh,Kapoor,suresh.kapoor@outlook.com,08722569961,Jaipur,Rajasthan,India,1977-03-03,Partner Referral,true,Legacy ID: CRM-000096
+Varun,Chauhan,varun.chauhan@gmail.com,63261-11780,Pune,Maharashtra,India,1978-11-17,Other,false,Legacy ID: CRM-000097
+Lakshmi,Khan,lakshmi.khan46@gmail.com,8872829979,Gurugram,Haryana,India,1978-10-24,Other,false,Legacy ID: CRM-000098
+Nisha,Sandhu,nisha.sandhu@gmail.com,99749-73502,Pune,Maharashtra,India,1975-06-12,Purchased List,false,Legacy ID: CRM-000099
+Pooja,Nair,pooja.nair@gmail.com,07046187234,Chandigarh,Chandigarh,India,1997-12-26,Phone Inquiry,true,Legacy ID: CRM-000100
+Mohit,Bhardwaj,mohit.bhardwaj@outlook.com,07812735857,Gurugram,Haryana,India,1978-03-22,Web,true,Legacy ID: CRM-000101
+Saaanvi,Bose,saanvi.bose1974@outlook.com,+91-9448570862,Noida,Uttar Pradesh,India,1988-07-05,Web,false,Legacy ID: CRM-000102
+Yash,Saxena,yash.saxena@gmail.com,7203173109,Delhi,Delhi,India,1997-03-15,Partner Referral,false,Legacy ID: CRM-000103
+Neha,Ansari,neha.ansari@gmail.com,+91-6948014138,Mumbai,Maharashtra,India,1993-01-19,Web,true,Legacy ID: CRM-000104
+ankit,chauhan,ANKIT.CHAUHAN@YAHOO.CO.IN,+91 78685 28975,Gurugram,Haryana,India,1989-06-23,Purchased List,false,Legacy ID: CRM-000105
+Anjali,Menon,anjali.menon1971@hotmail.com,80433-50488,Jaipur,Rajasthan,India,1976-03-17,Purchased List,false,Legacy ID: CRM-000106
+Amit,Mishra,amit.mishra1976@yahoo.co.in,+91-8096105566,Chandigarh,Chandigarh,India,1989-03-22,Purchased List,false,Legacy ID: CRM-000107
+PRIYA,YADAV,priya.yadav1990@gmail.com,+91-6665535590,Pune,Maharashtra,India,1973-12-16,Other,false,Legacy ID: CRM-000108
+Divya,Khanna,divya.khanna@hotmail.com,08104636815,Hyderabad,Telangana,India,1966-10-14,Web,false,Legacy ID: CRM-000109
+Manpreet,Banerjee,manpreet.banerjee@gmail.com,+91-8046084325,Chandigarh,Chandigarh,India,1971-11-08,Other,false,Legacy ID: CRM-000110
+Manperet,Kulkarni,manpreet.kulkarni@outlook.com,07629251881,Mumbai,Maharashtra,India,1971-10-26,Other,true,Legacy ID: CRM-000111
+Saanvi,Verma,saanvi.verma@outlook.com,+91-6517289752,Bengaluru,Karnataka,India,1977-02-08,Web,true,Legacy ID: CRM-000112
+Swati,Das,SWATI.DAS60@GMAIL.COM,68277-18129,Bengaluru,Karnataka,India,1985-05-25,Phone Inquiry,true,Legacy ID: CRM-000113
+Aarav,Saxena,aarav.saxena@yahoo.co.in,97671-99038,Bangalore,Karnataka,India,1971-07-10,Web,true,Legacy ID: CRM-000114
+Aditi,Nair,aditi.nair1988@gmail.com,+91 77950 14556,Calcutta,West Bengal,India,1988-08-23,Web,false,Legacy ID: CRM-000115
+jasleen,thakur,jasleen.thakur1999@gmail.com,+91 96084 95880,Mumbai,Maharashtra,India,1993-02-07,Partner Referral,true,Legacy ID: CRM-000116
+Swati,Kapoor,swati.kapoor5@gmail.com,+91 93574 38421,Pune,Maharashtra,India,1973-07-14,Phone Inquiry,false,Legacy ID: CRM-000117
+Vandana,Naidu,vandana.naidu@gmail.com,+91 67681 04091,Chennai,Tamil Nadu,India,1979-05-25,Purchased List,false,Legacy ID: CRM-000118
+Suresh,Reddy,suresh.reddy1970@gmail.com,6385854249,Bengaluru,Karnataka,India,1966-04-21,Phone Inquiry,false,Legacy ID: CRM-000119
+Vikram,Patel,vikram.patel1998@outlook.com,+91-8538179217,Gurugram,Haryana,India,1981-04-21,Partner Referral,false,Legacy ID: CRM-000120
+manpreet,reddy,manpreet.reddy@gmail.com,08992816158,Chandigarh,Chandigarh,India,1989-07-31,Partner Referral,false,Legacy ID: CRM-000121
+Rohit,Nair,rohit.nair@yahoo.co.in,6971997581,Delhi,Delhi,India,1987-03-05,Web,true,Legacy ID: CRM-000122
+Ishaan,Sharma,ishaan.sharma@gmail.com,+91-9666832723,Bengaluru,Karnataka,India,1971-06-18,Phone Inquiry,true,Legacy ID: CRM-000123
+Ishaan,Sharma,,+91-9666832723,Bengaluru,Karnataka,India,,Phone Inquiry,false,Legacy ID: CRM-000124
+Zoya,Qureshi,zoya.qureshi1997@yahoo.co.in,+91-9868765326,Chandigarh,Chandigarh,India,1966-07-03,Other,true,Legacy ID: CRM-000125
+Mohit,Agarwal,mohit.agarwal1975@outlook.com,,Pune,Maharashtra,India,1977-12-22,Purchased List,true,Legacy ID: CRM-000126
+Shreya,Rao,shreya.rao1979@gmail.com,77663-72395,Delhi,Delhi,India,1998-06-21,Partner Referral,true,Legacy ID: CRM-000127
+Riya,Patel,riya.patel2@outlook.com,+91 88018 56945,Bengaluru,Karnataka,India,1988-04-28,Other,false,Legacy ID: CRM-000128
+ANJALI,SANDHU,anjali.sandhu@gmail.com,06406650442,Mumbai,Maharashtra,India,1989-04-02,Phone Inquiry,true,Legacy ID: CRM-000129
+VANDANA,AGARWAL,vandana.agarwal@yahoo.co.in,08174328063,Mumbai,Maharashtra,India,1973-08-30,Partner Referral,true,Legacy ID: CRM-000130
+Dev,Rathore,dev.rathore@yahoo.co.in,+91 92071 00219,Chandigarh,Chandigarh,India,1975-09-25,Web,true,Legacy ID: CRM-000131
+Krisnha,Singh,krishna.singh@gmail.com,6822078113,Pune,Maharashtra,India,1975-03-21,Purchased List,false,Legacy ID: CRM-000132
+Priya,Patel,priya.patel1983@gmail.com,+91 76527 35435,Chennai,Tamil Nadu,India,1972-09-05,Web,true,Legacy ID: CRM-000133
+Aditya,Bhatia,aditya.bhatia84@outlook.com,9749242437,Hyderabad,Telangana,India,1996-12-06,Purchased List,true,Legacy ID: CRM-000134
+Aanya,Pllai,aanya.pillai1990@gmail.com,09452380552,Bengaluru,Karnataka,India,1999-06-23,Phone Inquiry,false,Legacy ID: CRM-000135
+Naveen,Bhatia,naveen.bhatia1975@gmail.com,77599-80562,Hyderabad,Telangana,India,1990-03-02,Web,false,Legacy ID: CRM-000136
+Lakshmi,Chauhan,lakshmi.chauhan1978@yahoo.co.in,62347-85196,Ahmedabad,Gujarat,India,1973-12-09,Partner Referral,false,Legacy ID: CRM-000137
+Meera,Mukherjee,meera.mukherjee@gmail.com,06138759271,Mumbai,Maharashtra,India,1970-07-19,Other,false,Legacy ID: CRM-000138
+Ananya,Mukherjee,ananya.mukherjee@yahoo.co.in,60902-55905,Gurugram,Haryana,India,1975-07-12,Web,false,Legacy ID: CRM-000139
+ROHIT,GREWAL,ROHIT.GREWAL1997@GMAIL.COM,+91 94079 05696,Gurugram,Haryana,India,1972-06-23,Other,false,Legacy ID: CRM-000140
+Kunal,Khanna,kunal.khanna@outlook.com,09391919541,Mumbai,Maharashtra,India,1979-01-21,Partner Referral,true,Legacy ID: CRM-000141
+gaurav,dhillon,gaurav.dhillon@outlook.com,07034778660,Hyderabad,Telangana,India,1997-05-30,Web,false,Legacy ID: CRM-000142
+Gaurav,Dhillon,,70347-78660,Hyderabad,Telangana,India,,Phone Inquiry,false,Legacy ID: CRM-000143
+Vikam,Kapoor,vikram.kapoor@outlook.com,9734257540,Delhi,Delhi,India,1975-08-09,Phone Inquiry,true,Legacy ID: CRM-000144
+Saanvi,Khan,saanvi.khan1990@gmail.com,62382-96577,Chandigarh,Chandigarh,India,1973-02-28,Web,false,Legacy ID: CRM-000145
+Saanvi,Khan,,6238296577,Chandigarh,Chandigarh,India,,Phone Inquiry,false,Legacy ID: CRM-000146
+Kunal,Agarwal,kunal.agarwal63@hotmail.com,+91 71513 42284,Ahmedabad,Gujarat,India,1995-05-14,Web,false,Legacy ID: CRM-000147
+Divya,Thakur,divya.thakur@gmail.com,+91 97490 50975,Ahmedabad,Gujarat,India,1969-02-25,Web,false,Legacy ID: CRM-000148
+harsh,mehta,harsh.mehta@yahoo.co.in,96492-51583,Gurugram,Haryana,India,2001-05-19,Web,false,Legacy ID: CRM-000149
+Saurabbh,Mehta,saurabh.mehta88@gmail.com,64761-74224,Gurugram,Haryana,India,1969-10-30,Purchased List,true,Legacy ID: CRM-000150
+S.,Qureshi,shalini.qureshi@outlook.com,76016-45977,Bengaluru,Karnataka,India,1988-12-21,Phone Inquiry,false,Legacy ID: CRM-000151
+Vivaan,Malhotra,vivaan.malhotra80@hotmail.com,8122031030,Pune,Maharashtra,India,1971-08-25,Partner Referral,true,Legacy ID: CRM-000152
+Diya,Chopra,diya.chopra@gmail.com,09050166799,Bengaluru,Karnataka,India,1997-01-15,Purchased List,false,Legacy ID: CRM-000153
+Harpreet,Yadav,harpreet.yadav83@yahoo.co.in,+91-9024375738,Gurugram,Haryana,India,2000-09-15,Partner Referral,false,Legacy ID: CRM-000154
+Ananya,Saxena,ananya.saxena@yahoo.co.in,09167433800,Delhi,Delhi,India,1970-02-11,Web,false,Legacy ID: CRM-000155
+Kavya,Banerjee,kavya.banerjee1979@gmail.com,06077119918,Delhi,Delhi,India,1999-03-08,Purchased List,false,Legacy ID: CRM-000156
+Sandeep,Chopra,sandeep.chopra@gmail.com,+91-9548214565,Pune,Maharashtra,India,1988-02-26,Web,true,Legacy ID: CRM-000157
+aRmesh,Tiwari,ramesh.tiwari@outlook.com,+91 81017 49075,Delhi,Delhi,India,1995-03-02,Purchased List,false,Legacy ID: CRM-000158
+Mohit,Grewal,mohit.grewal@gmail.com,8327018510,Ahmedabad,Gujarat,India,1970-12-16,Web,true,Legacy ID: CRM-000159
+Farhan,Patel,farhan.patel@outlook.com,+91 70489 13824,Kolkata,West Bengal,India,1989-02-10,Purchased List,true,Legacy ID: CRM-000160
+N.,Saxena,neha.saxena@hotmail.com,08537950209,Mumbai,Maharashtra,India,2000-04-26,Web,true,Legacy ID: CRM-000161
+Neha,Sharma,neha.sharma1980@outlook.com,71921-24938,Delhi,Delhi,India,1993-10-02,Web,false,Legacy ID: CRM-000162
+Ishaan,Reddy,ishaan.reddy@yahoo.co.in,+91 86875 06351,Chandigarh,Chandigarh,India,1993-01-30,Web,false,Legacy ID: CRM-000163
+Kunal,Verma,KUNAL.VERMA@GMAIL.COM,6583199717,Pune,Maharashtra,India,1967-06-17,Web,true,Legacy ID: CRM-000164
+Rohit,Jain,rohit.jain@yahoo.co.in,06767699150,Bengaluru,Karnataka,India,1991-08-06,Phone Inquiry,true,Legacy ID: CRM-000165
+Siddharth,Khan,siddharth.khan@outlook.com,60249-68549,Mumbai,Maharashtra,India,1991-04-23,Web,false,Legacy ID: CRM-000166
+Merea,Mukherjee,MEERA.MUKHERJEE44@GMAIL.COM,99599-59465,Hyderabad,Telangana,India,1992-12-27,Other,false,Legacy ID: CRM-000167
+Shreya,Jain,shreya.jain27@gmail.com,+91 85289 61122,Gurugram,Haryana,India,1999-03-26,Partner Referral,false,Legacy ID: CRM-000168
+Suresh,Sandhu,suresh.sandhu@gmail.com,67912-86857,Hyderabad,Telangana,India,1982-12-27,Web,false,Legacy ID: CRM-000169
+Mohit,Banerjee,mohit.banerjee@gmail.com,88881-43111,Noida,Uttar Pradesh,India,1973-07-21,Web,true,Legacy ID: CRM-000170
+Arjun,Menon,arjun.menon@yahoo.co.in,,Gurugram,Haryana,India,1967-11-10,Other,false,Legacy ID: CRM-000171
+Isha,Chatterjee,isha.chatterjee1976@gmail.com,+91 69702 31643,Gurugram,Haryana,India,1979-08-29,Web,false,Legacy ID: CRM-000172
+RASHMI,DESHPANDE,rashmi.deshpande90@yahoo.co.in,76329-67629,Mumbai,Maharashtra,India,1987-02-20,Web,false,Legacy ID: CRM-000173
+Saurabh,Agarwal,saurabh.agarwal@gmail.com,77314-95013,Delhi,Delhi,India,1991-11-29,Phone Inquiry,false,Legacy ID: CRM-000174
+Swati,Thakur,swati.thakur98@gmail.com,08099768389,Calcutta,West Bengal,India,1968-07-24,Partner Referral,false,Legacy ID: CRM-000175
+Simran,Khanna,simran.khanna@hotmail.com,08086403553,Delhi,Delhi,India,1984-11-04,Web,false,Legacy ID: CRM-000176
+Varun,Shah,varun.shah56@outlook.com,96149-82824,Noida,Uttar Pradesh,India,1979-12-13,Purchased List,false,Legacy ID: CRM-000177
+Pallavi,Mishra,pallavi.mishra34@gmail.com,62141-61415,Hyderabad,Telangana,India,1994-11-05,Phone Inquiry,false,Legacy ID: CRM-000178
+Fahran,Gupta,farhan.gupta60@hotmail.com,09833321160,Gurgaon,Haryana,India,1993-06-03,Other,true,Legacy ID: CRM-000179
+ISHA,PATEL,isha.patel@hotmail.com,+91-6875243772,Jaipur,Rajasthan,India,1986-06-16,Partner Referral,false,Legacy ID: CRM-000180
+Gurpreet,Rathore,gurpreet.rathore1980@gmail.com,09742333059,Hyderabad,Telangana,India,1967-05-10,Phone Inquiry,false,Legacy ID: CRM-000181
+Sana,Ansari,sana.ansari@hotmail.com,97492-61764,Noida,Uttar Pradesh,India,1966-01-13,Web,false,Legacy ID: CRM-000182
+Vandana,Dhillon,vandana.dhillon@yahoo.co.in,07151826068,Bengaluru,Karnataka,India,1996-03-09,Partner Referral,false,Legacy ID: CRM-000183
+Sandeep,Qureshi,sandeep.qureshi1983@gmail.com,8296184462,Hyderabad,Telangana,India,1993-05-27,Purchased List,false,Legacy ID: CRM-000184
+Vikram,Agarwal,vikram.agarwal1992@yahoo.co.in,08849102562,Delhi,Delhi,India,1995-10-21,Purchased List,false,Legacy ID: CRM-000185
+Siddharth,Chopra,SIDDHARTH.CHOPRA1985@HOTMAIL.COM,92757-84468,Noida,Uttar Pradesh,India,1969-03-15,Partner Referral,false,Legacy ID: CRM-000186
+Divya,Yadav,divya.yadav94@hotmail.com,,Kolkata,West Bengal,India,1988-01-17,Web,false,Legacy ID: CRM-000187
+Aarav,Iyer,aarav.iyer@gmail.com,7617024376,Chennai,Tamil Nadu,India,1972-04-05,Purchased List,false,Legacy ID: CRM-000188
+Aarav,Iyer,aarav.iyer18@gmail.com,+91 80237 41678,Chennai,Tamil Nadu,India,1970-08-29,Purchased List,false,Legacy ID: CRM-000189
+Yash,Bhatia,yash.bhatia1971@gmail.com,06066843356,Gurugram,Haryana,India,1980-09-30,Partner Referral,true,Legacy ID: CRM-000190
+Amit,Jain,amit.jain25@outlook.com,06895473820,Gurugram,Haryana,India,1984-07-25,Phone Inquiry,false,Legacy ID: CRM-000191
+Sana,Deshpande,sana.deshpande1987@gmail.com,+91 73083 40242,Mumbai,Maharashtra,India,1979-07-24,Other,false,Legacy ID: CRM-000192
+Shreya,Naidu,shreya.naidu@hotmail.com,+91 80891 64983,Gurugram,Haryana,India,1997-09-27,Other,true,Legacy ID: CRM-000193
+MOHIT,CHOPRA,mohit.chopra@gmail.com,08042269312,Chennai,Tamil Nadu,India,1969-06-22,Partner Referral,false,Legacy ID: CRM-000194
+Vivaan,Rathore,vivaan.rathore@gmail.com,6851327972,Hyderabad,Telangana,India,1965-12-14,Partner Referral,true,Legacy ID: CRM-000195
+Amit,Reddy,amit.reddy55@gmail.com,+91-8236687887,Ahmedabad,Gujarat,India,1981-03-24,Purchased List,false,Legacy ID: CRM-000196
+Farhan,Grewal,farhan.grewal@gmail.com,+91 63628 91775,Bengaluru,Karnataka,India,1968-06-28,Phone Inquiry,false,Legacy ID: CRM-000197
+Farhan,Grewal,,06362891775,Bengaluru,Karnataka,India,,Phone Inquiry,false,Legacy ID: CRM-000198
+Manpreet,Verma,manpreet.verma@gmail.com,+91-7034199097,Delhi,Delhi,India,1973-09-28,Phone Inquiry,false,Legacy ID: CRM-000199
+tarun,bansal,tarun.bansal@hotmail.com,+91-9790422711,Bengaluru,Karnataka,India,2000-03-25,Web,false,Legacy ID: CRM-000200
+Kunal,Gupta,kunal.gupta@gmail.com,+91 91024 81717,Chennai,Tamil Nadu,India,1968-03-11,Phone Inquiry,false,Legacy ID: CRM-000201
+Shreya,Chatterjee,shreya.chatterjee@gmail.com,86692-75895,Jaipur,Rajasthan,India,1996-05-22,Web,true,Legacy ID: CRM-000202
+Ramesh,Chopra,ramesh.chopra@outlook.com,+91 86730 30644,Kolkata,West Bengal,India,1988-07-16,Other,false,Legacy ID: CRM-000203
+Ramesh,Chopra,,86730-30644,Kolkata,West Bengal,India,,Phone Inquiry,false,Legacy ID: CRM-000204
+Saanvi,Singh,saanvi.singh45@gmail.com,+91-7659608931,Gurugram,Haryana,India,2000-07-12,Purchased List,true,Legacy ID: CRM-000205
+Gaurav,Gill,gaurav.gill@gmail.com,07682963533,Mumbai,Maharashtra,India,1983-07-29,Partner Referral,false,Legacy ID: CRM-000206
+Ramesh,Joshi,ramesh.joshi1980@gmail.com,94649-11110,Mumbai,Maharashtra,India,1994-12-14,Other,false,Legacy ID: CRM-000207
+Kavya,Bhardwaj,kavya.bhardwaj45@yahoo.co.in,09053844446,Chandigarh,Chandigarh,India,1979-03-30,Web,true,Legacy ID: CRM-000208
+Diyva,Gill,divya.gill51@gmail.com,66171-36657,Chennai,Tamil Nadu,India,1980-07-22,Phone Inquiry,false,Legacy ID: CRM-000209
+Kunal,Mukherjee,kunal.mukherjee1976@hotmail.com,8237676945,Kolkata,West Bengal,India,1972-07-03,Phone Inquiry,true,Legacy ID: CRM-000210
+Swati,Sandhu,swati.sandhu1974@gmail.com,09655330770,Pune,Maharashtra,India,1975-08-10,Other,false,Legacy ID: CRM-000211
+Aarrav,Deshpande,aarav.deshpande@outlook.com,06644556185,Delhi,Delhi,India,1969-08-11,Other,false,Legacy ID: CRM-000212
+Ishaan,Sharma,ishaan.sharma1991@gmail.com,94229-71252,Gurugram,Haryana,India,1979-06-11,Web,true,Legacy ID: CRM-000213
+Kuanl,Arora,kunal.arora@gmail.com,09634362948,Delhi,Delhi,India,1966-08-08,Purchased List,false,Legacy ID: CRM-000214
+Tanya,Joshi,tanya.joshi1970@gmail.com,09907371009,Noida,Uttar Pradesh,India,1985-04-21,Other,false,Legacy ID: CRM-000215
+Ramesh,Gill,ramesh.gill1991@gmail.com,+91-9148026325,Bengaluru,Karnataka,India,1993-08-27,Partner Referral,false,Legacy ID: CRM-000216
+Ramesh,Kulkarni,ramesh.kulkarni@gmail.com,+91-7098591679,Ahmedabad,Gujarat,India,1992-12-25,Web,true,Legacy ID: CRM-000217
+Ananya,Grewal,ananya.grewal1988@yahoo.co.in,67406-50042,Mumbai,Maharashtra,India,1991-04-03,Web,true,Legacy ID: CRM-000218
+Kunal,Jain,kunal.jain@hotmail.com,09667080612,Gurugram,Haryana,India,1967-05-28,Purchased List,true,Legacy ID: CRM-000219
+Aarav,Banerjee,aarav.banerjee@gmail.com,6708760146,Pune,Maharashtra,India,1971-07-25,Partner Referral,false,Legacy ID: CRM-000220
+Meera,Malhotra,meera.malhotra1976@yahoo.co.in,84661-76620,Mumbai,Maharashtra,India,1984-12-09,Web,true,Legacy ID: CRM-000221
+K.,Deshpande,kabir.deshpande@gmail.com,+91-9812259572,Chennai,Tamil Nadu,India,1996-10-13,Web,true,Legacy ID: CRM-000222
+Mohit,Pandey,mohit.pandey@gmail.com,73477-43326,Pune,Maharashtra,India,1999-09-27,Partner Referral,false,Legacy ID: CRM-000223
+Ramesh,Nair,RAMESH.NAIR@YAHOO.CO.IN,06893898469,Gurgaon,Haryana,India,1976-09-14,Web,false,Legacy ID: CRM-000224
+Rohan,Bansal,rohan.bansal1974@gmail.com,6516991872,Delhi,Delhi,India,1978-08-12,Purchased List,true,Legacy ID: CRM-000225
+TARUN,BHATIA,tarun.bhatia1985@outlook.com,+91 88810 56974,Chandigarh,Chandigarh,India,1997-07-08,Web,false,Legacy ID: CRM-000226
+Simran,Nair,SIMRAN.NAIR@GMAIL.COM,84277-07070,Mumbai,Maharashtra,India,1989-09-26,Partner Referral,false,Legacy ID: CRM-000227
+farhan,kulkarni,farhan.kulkarni@outlook.com,+91-9420595565,Gurgaon,Haryana,India,1966-02-23,Partner Referral,true,Legacy ID: CRM-000228
+Shreya,Sanhu,shreya.sandhu@outlook.com,90216-48712,Noida,Uttar Pradesh,India,1980-11-23,Phone Inquiry,false,Legacy ID: CRM-000229
+Tanvi,Bhardwaj,tanvi.bhardwaj68@outlook.com,+91 86522 03684,Gurugram,Haryana,India,1975-01-13,Web,true,Legacy ID: CRM-000230
+Kabir,Dhillon,kabir.dhillon@gmail.com,84781-50618,Bengaluru,Karnataka,India,1995-03-17,Phone Inquiry,false,Legacy ID: CRM-000231
+Z.,Kapoor,zoya.kapoor@gmail.com,+91 67893 20649,Bengaluru,Karnataka,India,1994-12-19,Phone Inquiry,false,Legacy ID: CRM-000232
+Pranav,Pandey,pranav.pandey@gmail.com,91275-15627,Noida,Uttar Pradesh,India,1967-09-24,Phone Inquiry,false,Legacy ID: CRM-000233
+H.,Desai,harpreet.desai@gmail.com,+91 64763 92831,Chandigarh,Chandigarh,India,1999-05-26,Web,true,Legacy ID: CRM-000234
+Shreya,Ansari,shreya.ansari72@gmail.com,+91 76076 58173,Mumbai,Maharashtra,India,1971-06-14,Web,true,Legacy ID: CRM-000235
+Sandeep,Yadav,sandeep.yadav2000@gmail.com,07074645205,Delhi,Delhi,India,1979-06-09,Other,false,Legacy ID: CRM-000236
+Rahul,Jain,rahul.jain@gmail.com,+91-9106728728,Chandigarh,Chandigarh,India,1992-08-04,Purchased List,true,Legacy ID: CRM-000237
+Shalini,Pandey,shalini.pandey@gmail.com,08694596488,Delhi,Delhi,India,1969-08-04,Other,false,Legacy ID: CRM-000238
+S.,Nair,swati.nair@hotmail.com,6331922270,Mumbai,Maharashtra,India,1987-06-13,Other,true,Legacy ID: CRM-000239
+Aanya,Chatterjee,aanya.chatterjee1971@gmail.com,+91-7221610705,Bengaluru,Karnataka,India,1997-05-24,Purchased List,true,Legacy ID: CRM-000240
+Harsh,Desai,harsh.desai@outlook.com,9049386204,Hyderabad,Telangana,India,1968-12-15,Purchased List,false,Legacy ID: CRM-000241
+Amit,Kapoor,amit.kapoor28@gmail.com,7432406424,Noida,Uttar Pradesh,India,1976-08-20,Partner Referral,true,Legacy ID: CRM-000242
+Saanvi,Chatterjee,saanvi.chatterjee@yahoo.co.in,06502675512,Gurugram,Haryana,India,1991-08-18,Web,false,Legacy ID: CRM-000243
+Harsh,Chatterjee,harsh.chatterjee@gmail.com,+91-7816649690,Hyderabad,Telangana,India,1994-10-05,Web,false,Legacy ID: CRM-000244
+Amit,Grewal,amit.grewal@yahoo.co.in,07441233613,Hyderabad,Telangana,India,1995-10-23,Web,false,Legacy ID: CRM-000245
+Tanya,Qureshi,tanya.qureshi@gmail.com,+91-8469681579,Noida,Uttar Pradesh,India,1992-05-22,Web,false,Legacy ID: CRM-000246
+Karan,Ansari,karan.ansari12@gmail.com,07624467046,Delhi,Delhi,India,2001-01-17,Other,true,Legacy ID: CRM-000247
+S.,Mishra,siddharth.mishra@hotmail.com,9419785758,Mumbai,Maharashtra,India,1996-09-27,Phone Inquiry,false,Legacy ID: CRM-000248
+Rashmi,Joshi,rashmi.joshi1973@yahoo.co.in,08465408424,Gurugram,Haryana,India,1997-10-31,Web,false,Legacy ID: CRM-000249
+Rahul,Joshi,rahul.joshi@gmail.com,+91-9364248096,Jaipur,Rajasthan,India,1976-12-24,Phone Inquiry,false,Legacy ID: CRM-000250
+Harpreet,Jain,HARPREET.JAIN1999@GMAIL.COM,+91 88678 05555,Delhi,Delhi,India,1966-06-13,Other,false,Legacy ID: CRM-000251
+Rahul,Khan,rahul.khan@outlook.com,09029929596,Mumbai,Maharashtra,India,1992-03-27,Purchased List,true,Legacy ID: CRM-000252
+Manish,Jain,manish.jain1995@gmail.com,83694-55158,Chandigarh,Chandigarh,India,1977-12-09,Phone Inquiry,false,Legacy ID: CRM-000253
+Shaini,Ansari,shalini.ansari1971@yahoo.co.in,7998199605,Delhi,Delhi,India,1987-12-09,Purchased List,true,Legacy ID: CRM-000254
+Ananya,Deshpande,ananya.deshpande@gmail.com,79773-97327,Noida,Uttar Pradesh,India,1988-04-25,Web,true,Legacy ID: CRM-000255
+Nha,Gill,neha.gill@hotmail.com,+91 87574 94902,Gurugram,Haryana,India,1997-02-10,Web,false,Legacy ID: CRM-000256
+Zoya,Ansari,zoya.ansari@yahoo.co.in,08332491357,Delhi,Delhi,India,1979-10-13,Web,false,Legacy ID: CRM-000257
+Vandana,Deshpande,vandana.deshpande62@gmail.com,,Gurugram,Haryana,India,1976-04-17,Other,true,Legacy ID: CRM-000258
+Nsha,Banerjee,nisha.banerjee1986@gmail.com,+91 84884 71270,Pune,Maharashtra,India,1984-11-18,Phone Inquiry,true,Legacy ID: CRM-000259
+Saanvi,Khanna,saanvi.khanna@outlook.com,08939252362,Bengaluru,Karnataka,India,1976-10-16,Web,false,Legacy ID: CRM-000260
+A.,Menon,aditi.menon58@hotmail.com,9606065274,Delhi,Delhi,India,1979-08-12,Web,false,Legacy ID: CRM-000261
+Pooja,Saxena,pooja.saxena@gmail.com,9734996010,Mumbai,Maharashtra,India,1979-07-24,Phone Inquiry,false,Legacy ID: CRM-000262
+Yah,Chopra,yash.chopra1986@yahoo.co.in,08021557325,Pune,Maharashtra,India,1971-04-18,Phone Inquiry,true,Legacy ID: CRM-000263
+Praanv,Banerjee,pranav.banerjee@gmail.com,8874951191,Hyderabad,Telangana,India,1999-05-31,Phone Inquiry,false,Legacy ID: CRM-000264
+Varun,Chatterjee,varun.chatterjee@gmail.com,+91 84164 31670,Delhi,Delhi,India,1971-12-27,Web,false,Legacy ID: CRM-000265
+Reyansh,Chauhan,reyansh.chauhan@outlook.com,+91 65316 11776,Chennai,Tamil Nadu,India,1994-06-12,Web,false,Legacy ID: CRM-000266
+Sandeep,Chatterjee,sandeep.chatterjee@outlook.com,6649133424,Mumbai,Maharashtra,India,1981-10-24,Phone Inquiry,false,Legacy ID: CRM-000267
+Reyansh,Chauhan,reyansh.chauhan@gmail.com,+91 72650 97753,Chennai,Tamil Nadu,India,1994-05-28,Web,true,Legacy ID: CRM-000268
+Jsaleen,Kapoor,jasleen.kapoor1991@hotmail.com,65608-21371,Delhi,Delhi,India,1987-08-23,Phone Inquiry,false,Legacy ID: CRM-000269
+Tanvi,Singh,tanvi.singh@yahoo.co.in,80148-43991,Jaipur,Rajasthan,India,1982-07-17,Web,false,Legacy ID: CRM-000270
+S.,Iyer,SNEHA.IYER@GMAIL.COM,07450184819,Gurugram,Haryana,India,1998-11-01,Partner Referral,true,Legacy ID: CRM-000271
+Kavya,Deshpande,kavya.deshpande@outlook.com,9805721514,Delhi,Delhi,India,1989-02-25,Partner Referral,false,Legacy ID: CRM-000272
+Riya,Mishra,riya.mishra@outlook.com,65911-91862,Hyderabad,Telangana,India,1969-03-23,Other,true,Legacy ID: CRM-000273
+Sandeep,Malhotra,sandeep.malhotra@gmail.com,79728-35129,Gurugram,Haryana,India,1966-09-28,Other,true,Legacy ID: CRM-000274
+V.,Qureshi,vandana.qureshi1995@hotmail.com,07452734666,Bengaluru,Karnataka,India,1982-06-11,Web,true,Legacy ID: CRM-000275
+Imran,Arora,imran.arora@yahoo.co.in,75263-56022,Mumbai,Maharashtra,India,1983-08-28,Other,true,Legacy ID: CRM-000276
+priya,mehta,priya.mehta@gmail.com,06621136957,Mumbai,Maharashtra,India,1965-08-21,Purchased List,true,Legacy ID: CRM-000277
+Diya,Naidu,diya.naidu30@gmail.com,+91 66913 09810,Kolkata,West Bengal,India,1976-03-20,Phone Inquiry,true,Legacy ID: CRM-000278
+Rashmi,Chattrjee,rashmi.chatterjee@gmail.com,+91-8250642076,Kolkata,West Bengal,India,1984-11-29,Other,true,Legacy ID: CRM-000279
+Jaselen,Reddy,jasleen.reddy1982@gmail.com,+91 87865 43627,Bengaluru,Karnataka,India,1989-09-30,Web,true,Legacy ID: CRM-000280
+Roiht,Kapoor,rohit.kapoor@gmail.com,6597099625,Gurugram,Haryana,India,1994-02-17,Web,false,Legacy ID: CRM-000281
+Arnnav,Naidu,arnav.naidu@gmail.com,60213-12512,Delhi,Delhi,India,1993-02-01,Partner Referral,true,Legacy ID: CRM-000282
+Aarav,Mehta,aarav.mehta@outlook.com,+91 75326 94968,Delhi,Delhi,India,1998-11-02,Partner Referral,true,Legacy ID: CRM-000283
+A.,Nair,ananya.nair@gmail.com,+91-8259710756,Pune,Maharashtra,India,2000-08-10,Partner Referral,false,Legacy ID: CRM-000284
+Rohan,Chatterjee,rohan.chatterjee@outlook.com,95983-39914,Delhi,Delhi,India,1976-09-16,Phone Inquiry,false,Legacy ID: CRM-000285
+Arjun,Asnari,arjun.ansari1994@gmail.com,95147-43974,Pune,Maharashtra,India,1981-07-18,Web,false,Legacy ID: CRM-000286
+Deepak,Yadav,deepak.yadav@gmail.com,68027-11221,Gurugram,Haryana,India,1987-02-03,Purchased List,false,Legacy ID: CRM-000287
+Deepak,Yadav,,+91-6802711221,Gurugram,Haryana,India,,Phone Inquiry,false,Legacy ID: CRM-000288
+ankit,ansari,ankit.ansari1973@gmail.com,63700-33228,Hyderabad,Telangana,India,1989-09-03,Phone Inquiry,false,Legacy ID: CRM-000289
+REYANSH,ARORA,reyansh.arora@gmail.com,7280944858,Delhi,Delhi,India,1970-05-07,Other,false,Legacy ID: CRM-000290
+Saurabh,Chauhan,saurabh.chauhan@gmail.com,7473107201,Chennai,Tamil Nadu,India,1967-11-03,Purchased List,true,Legacy ID: CRM-000291
+Roiht,Shah,rohit.shah1970@yahoo.co.in,+91-6447340433,Bengaluru,Karnataka,India,1981-05-01,Purchased List,false,Legacy ID: CRM-000292
+Tanya,Bose,tanya.bose@outlook.com,+91 79657 54278,Delhi,Delhi,India,1985-03-22,Other,true,Legacy ID: CRM-000293
+kiran,qureshi,kiran.qureshi@yahoo.co.in,92308-17214,Hyderabad,Telangana,India,1978-04-09,Purchased List,true,Legacy ID: CRM-000294
+Karan,Kumar,KARAN.KUMAR@YAHOO.CO.IN,83469-97990,Delhi,Delhi,India,1999-07-14,Purchased List,false,Legacy ID: CRM-000295
+Arnav,Thakur,arnav.thakur1986@yahoo.co.in,+91-6317653970,Mumbai,Maharashtra,India,1991-08-15,Web,true,Legacy ID: CRM-000296
+F.,Kulkarni,farhan.kulkarni1977@outlook.com,77420-49561,Gurugram,Haryana,India,1966-12-20,Purchased List,true,Legacy ID: CRM-000297
+Sneha,Bansal,sneha.bansal1993@hotmail.com,09129618033,Gurugram,Haryana,India,1988-07-13,Other,false,Legacy ID: CRM-000298
+Sneha,Bansal,,91296-18033,Gurugram,Haryana,India,,Phone Inquiry,false,Legacy ID: CRM-000299
+Gaurav,Singh,gaurav.singh25@yahoo.co.in,+91-7279862398,Bengaluru,Karnataka,India,1996-08-08,Purchased List,true,Legacy ID: CRM-000300
+Anjalli,Pandey,anjali.pandey@outlook.com,+91 87789 48963,Gurugram,Haryana,India,1970-05-11,Purchased List,false,Legacy ID: CRM-000301
+Ishaan,Gupta,ishaan.gupta@gmail.com,06015944633,Hyderabad,Telangana,India,1989-11-02,Web,false,Legacy ID: CRM-000302
+Shreya,Chatterjee,shreya.chatterjee@outlook.com,+91-8031219804,Delhi,Delhi,India,1975-04-12,Other,false,Legacy ID: CRM-000303
+R.,Bhatia,rohit.bhatia37@hotmail.com,70391-11428,Chennai,Tamil Nadu,India,1979-08-08,Other,true,Legacy ID: CRM-000304
+Sana,Verma,sana.verma1985@yahoo.co.in,+91 89473 72132,Mumbai,Maharashtra,India,1989-09-08,Web,false,Legacy ID: CRM-000305
+Naveen,Deshpande,naveen.deshpande1986@hotmail.com,78720-31954,Jaipur,Rajasthan,India,1973-11-30,Web,true,Legacy ID: CRM-000306
+Kunal,Kumar,kunal.kumar@yahoo.co.in,+91-7482012840,Pune,Maharashtra,India,1985-08-25,Other,false,Legacy ID: CRM-000307
+Manpreet,Grewal,manpreet.grewal41@hotmail.com,+91-9267055143,Gurugram,Haryana,India,1992-05-22,Web,true,Legacy ID: CRM-000308
+Gurpreet,Tiwari,gurpreet.tiwari20@hotmail.com,07007202455,Noida,Uttar Pradesh,India,1992-07-23,Web,false,Legacy ID: CRM-000309
+Diya,Shah,diya.shah1974@gmail.com,+91 71794 28179,Hyderabad,Telangana,India,1978-09-30,Web,false,Legacy ID: CRM-000310
+Aditi,Pillai,aditi.pillai@gmail.com,+91-6462776572,Delhi,Delhi,India,1986-11-04,Web,false,Legacy ID: CRM-000311
+Priya,Jshi,priya.joshi1988@hotmail.com,09045069176,Bangalore,Karnataka,India,1994-04-02,Web,true,Legacy ID: CRM-000312
+Anali,Shah,anjali.shah51@yahoo.co.in,6488608490,Delhi,Delhi,India,1997-07-22,Partner Referral,false,Legacy ID: CRM-000313
+Nisha,Kapoor,nisha.kapoor66@outlook.com,08151526384,Gurugram,Haryana,India,1973-09-17,Purchased List,false,Legacy ID: CRM-000314
+aYsh,Dhillon,yash.dhillon@outlook.com,86004-52128,Noida,Uttar Pradesh,India,1974-07-11,Web,true,Legacy ID: CRM-000315
+NAVEEN,SANDHU,naveen.sandhu1985@outlook.com,66497-01693,Noida,Uttar Pradesh,India,1976-03-19,Web,true,Legacy ID: CRM-000316
+Naveen,Sandhu,,66497-01693,Noida,Uttar Pradesh,India,,Phone Inquiry,false,Legacy ID: CRM-000317
+Pranav,Bansal,pranav.bansal@gmail.com,06537221556,Jaipur,Rajasthan,India,1994-11-14,Other,true,Legacy ID: CRM-000318
+ZOYA,BANERJEE,zoya.banerjee@yahoo.co.in,+91 98436 14244,Kolkata,West Bengal,India,1993-11-25,Partner Referral,true,Legacy ID: CRM-000319
+tanvi,chatterjee,tanvi.chatterjee3@yahoo.co.in,78821-45841,Jaipur,Rajasthan,India,1976-04-23,Web,false,Legacy ID: CRM-000320
+Naveen,Kapoor,naveen.kapoor1996@gmail.com,,Pune,Maharashtra,India,1973-10-21,Other,true,Legacy ID: CRM-000321
+Tanvi,Sharma,tanvi.sharma@yahoo.co.in,+91 69043 22302,Chandigarh,Chandigarh,India,1971-01-13,Phone Inquiry,false,Legacy ID: CRM-000322
+eNha,Menon,neha.menon9@gmail.com,6250826112,Pune,Maharashtra,India,1997-01-06,Partner Referral,false,Legacy ID: CRM-000323
+Manreet,Kulkarni,manpreet.kulkarni@yahoo.co.in,+91 89303 64687,Delhi,Delhi,India,1982-09-14,Other,true,Legacy ID: CRM-000324
+KABIR,SINGH,kabir.singh2002@gmail.com,+91-6388158814,Mumbai,Maharashtra,India,2001-01-06,Partner Referral,true,Legacy ID: CRM-000325
+Amit,Das,amit.das11@hotmail.com,85000-00015,Delhi,Delhi,India,1967-07-27,Web,true,Legacy ID: CRM-000326
+Arjun,Naidu,arjun.naidu@gmail.com,+91 71829 98747,Delhi,Delhi,India,1966-10-24,Phone Inquiry,false,Legacy ID: CRM-000327
+Krishna,Khan,krishna.khan1999@outlook.com,6982210401,Mumbai,Maharashtra,India,1989-07-23,Purchased List,true,Legacy ID: CRM-000328
+Sneha,Das,sneha.das@hotmail.com,6269428946,Delhi,Delhi,India,1969-09-02,Web,false,Legacy ID: CRM-000329
+R.,Deshpande,rahul.deshpande@yahoo.co.in,+91 62635 58243,Chennai,Tamil Nadu,India,2001-07-19,Web,false,Legacy ID: CRM-000330
+Adita,Bhardwaj,aditya.bhardwaj@hotmail.com,7790504043,Delhi,Delhi,India,1982-09-16,Web,true,Legacy ID: CRM-000331
+Aditya,Bhardwaj,,+91-7790504043,Delhi,Delhi,India,,Phone Inquiry,false,Legacy ID: CRM-000332
+Vikram,Mehta,vikram.mehta1973@hotmail.com,+91 79137 32653,Gurugram,Haryana,India,1969-04-11,Other,false,Legacy ID: CRM-000333
+Mohit,Saxena,mohit.saxena1977@gmail.com,+91-8184336875,Hyderabad,Telangana,India,1987-09-10,Phone Inquiry,true,Legacy ID: CRM-000334
+Tanvi,Nair,tanvi.nair@gmail.com,+91 90505 37666,Noida,Uttar Pradesh,India,1988-05-03,Web,true,Legacy ID: CRM-000335
+Pranav,Pandey,pranav.pandey@yahoo.co.in,7455068826,Gurugram,Haryana,India,1978-01-10,Phone Inquiry,true,Legacy ID: CRM-000336
+Meera,Grewal,meera.grewal@yahoo.co.in,+91 76033 59101,Chennai,Tamil Nadu,India,2001-01-13,Web,true,Legacy ID: CRM-000337
+Aditya,Pillai,aditya.pillai1996@outlook.com,+91-9489971842,Ahmedabad,Gujarat,India,1965-12-15,Web,true,Legacy ID: CRM-000338
+Varun,Ansari,varun.ansari1@gmail.com,+91-6299650826,Delhi,Delhi,India,1980-06-18,Purchased List,false,Legacy ID: CRM-000339
+aKran,Arora,karan.arora1982@hotmail.com,+91-8143468239,Gurugram,Haryana,India,1994-12-14,Web,true,Legacy ID: CRM-000340
+Ananya,Sharma,ananya.sharma41@outlook.com,08613371844,Noida,Uttar Pradesh,India,1987-11-22,Web,true,Legacy ID: CRM-000341
+kunal,dhillon,kunal.dhillon14@hotmail.com,+91 62778 22102,Delhi,Delhi,India,1972-09-12,Purchased List,false,Legacy ID: CRM-000342
+Dev,Sharma,dev.sharma@gmail.com,8521650587,Noida,Uttar Pradesh,India,1971-03-24,Partner Referral,false,Legacy ID: CRM-000343
+Rashmi,Rathore,rashmi.rathore1997@hotmail.com,+91-8802205093,Pune,Maharashtra,India,1987-12-23,Web,false,Legacy ID: CRM-000344
+Rahul,Sandhu,rahul.sandhu@gmail.com,+91 73867 67382,Noida,Uttar Pradesh,India,1992-05-20,Other,false,Legacy ID: CRM-000345
+Yash,Saxena,yash.saxena41@gmail.com,+91-6858062350,Mumbai,Maharashtra,India,1966-05-17,Partner Referral,false,Legacy ID: CRM-000346
+Ramesh,Kapoor,ramesh.kapoor68@gmail.com,+91 93259 42328,Bangalore,Karnataka,India,1976-09-11,Other,false,Legacy ID: CRM-000347
+Gurpreet,Sandhu,gurpreet.sandhu@gmail.com,+91 76781 36750,Chandigarh,Chandigarh,India,1985-06-26,Web,false,Legacy ID: CRM-000348
+Manish,Rao,manish.rao@hotmail.com,+91-8238885622,Pune,Maharashtra,India,1989-03-05,Phone Inquiry,false,Legacy ID: CRM-000349
+Dya,Bansal,DIYA.BANSAL1991@HOTMAIL.COM,+91-8594282491,Mumbai,Maharashtra,India,1981-09-17,Partner Referral,false,Legacy ID: CRM-000350
+I.,Rao,imran.rao93@hotmail.com,6258254318,Ahmedabad,Gujarat,India,1971-06-05,Web,true,Legacy ID: CRM-000351
+Ritka,Saxena,ritika.saxena@gmail.com,+91-7387508276,Gurugram,Haryana,India,1990-03-19,Web,false,Legacy ID: CRM-000352
+Deepak,Chopra,deepak.chopra95@outlook.com,+91-7160827172,Chennai,Tamil Nadu,India,1979-08-14,Web,true,Legacy ID: CRM-000353
+Pooja,Chauhan,pooja.chauhan@yahoo.co.in,+91 73255 39835,Chandigarh,Chandigarh,India,1978-01-01,Phone Inquiry,false,Legacy ID: CRM-000354
+Krishna,Khanna,krishna.khanna@gmail.com,6523910292,Gurugram,Haryana,India,1992-06-16,Web,true,Legacy ID: CRM-000355
+ankit,chatterjee,ankit.chatterjee@outlook.com,+91 72132 17672,Gurugram,Haryana,India,1973-02-08,Purchased List,false,Legacy ID: CRM-000356
+Tarun,Yadav,tarun.yadav@gmail.com,+91-7027061592,Noida,Uttar Pradesh,India,1984-11-16,Web,true,Legacy ID: CRM-000357
+K.,Joshi,kunal.joshi@gmail.com,08203403010,Chennai,Tamil Nadu,India,1981-08-21,Partner Referral,false,Legacy ID: CRM-000358
+Harsh,Kapoor,harsh.kapoor45@yahoo.co.in,+91 99470 31805,Gurugram,Haryana,India,2001-12-05,Web,false,Legacy ID: CRM-000359
+Manish,Desai,manish.desai@yahoo.co.in,+91 80779 43325,Noida,Uttar Pradesh,India,1992-05-22,Purchased List,false,Legacy ID: CRM-000360
+Rahul,Kulkarni,rahul.kulkarni@hotmail.com,68644-82217,Jaipur,Rajasthan,India,1989-03-08,Purchased List,false,Legacy ID: CRM-000361
+Shreya,Bose,shreya.bose1994@gmail.com,08961128794,Gurugram,Haryana,India,1994-10-24,Phone Inquiry,false,Legacy ID: CRM-000362
+Kavya,Dhillon,kavya.dhillon@outlook.com,92879-91609,Mumbai,Maharashtra,India,1993-09-18,Phone Inquiry,true,Legacy ID: CRM-000363
+Neha,Pillai,neha.pillai@yahoo.co.in,+91 85881 65025,Chandigarh,Chandigarh,India,1994-03-04,Phone Inquiry,false,Legacy ID: CRM-000364
+Simran,Dhillon,simran.dhillon@gmail.com,+91 74989 80880,Gurugram,Haryana,India,1988-03-11,Web,true,Legacy ID: CRM-000365
+Kavya,Reddy,kavya.reddy1985@outlook.com,+91-9486941559,Pune,Maharashtra,India,2002-11-24,Web,true,Legacy ID: CRM-000366
+ISHAAN,VERMA,ishaan.verma@gmail.com,08664896676,Pune,Maharashtra,India,1986-12-25,Other,true,Legacy ID: CRM-000367
+Arjun,Mishra,arjun.mishra78@gmail.com,7546622654,Chandigarh,Chandigarh,India,1996-03-02,Purchased List,true,Legacy ID: CRM-000368
+Saurabh,Malhotra,saurabh.malhotra55@gmail.com,92591-60112,Hyderabad,Telangana,India,1965-04-11,Purchased List,true,Legacy ID: CRM-000369
+Saurabh,Malhotra,,92591-60112,Hyderabad,Telangana,India,,Phone Inquiry,false,Legacy ID: CRM-000370
+Vivaan,Jin,vivaan.jain@hotmail.com,+91 62995 70472,Mumbai,Maharashtra,India,1988-09-20,Purchased List,true,Legacy ID: CRM-000371
+Vndana,Nair,vandana.nair1999@yahoo.co.in,75482-42183,Delhi,Delhi,India,1977-10-17,Web,true,Legacy ID: CRM-000372
+Dev,Khanna,dev.khanna@gmail.com,99177-63342,Hyderabad,Telangana,India,1980-11-11,Purchased List,true,Legacy ID: CRM-000373
+Roohan,Kumar,rohan.kumar@gmail.com,75882-49353,Pune,Maharashtra,India,1977-11-09,Other,false,Legacy ID: CRM-000374
+Saurabh,Iyer,saurabh.iyer34@hotmail.com,78517-99378,Ahmedabad,Gujarat,India,1987-12-28,Phone Inquiry,false,Legacy ID: CRM-000375
+Swati,Saxena,swati.saxena@outlook.com,+91 99271 47246,Mumbai,Maharashtra,India,1974-02-20,Partner Referral,true,Legacy ID: CRM-000376
+Kiran,Patel,kiran.patel81@gmail.com,6814356140,Mumbai,Maharashtra,India,1977-05-25,Other,false,Legacy ID: CRM-000377
+Pranav,Menon,pranav.menon1998@gmail.com,+91 66994 97089,Delhi,Delhi,India,1971-04-27,Purchased List,false,Legacy ID: CRM-000378
+Harsh,Malhotra,harsh.malhotra56@gmail.com,+91-9915059625,Noida,Uttar Pradesh,India,1968-11-26,Other,false,Legacy ID: CRM-000379
+Traun,Deshpande,tarun.deshpande@gmail.com,+91 69521 75585,Hyderabad,Telangana,India,1992-01-05,Web,false,Legacy ID: CRM-000380
+Ramesh,Thakur,ramesh.thakur@gmail.com,82229-75891,Hyderabad,Telangana,India,1981-09-22,Purchased List,false,Legacy ID: CRM-000381
+PALLAVI,SETHI,pallavi.sethi@outlook.com,8801195092,Gurugram,Haryana,India,2001-08-24,Partner Referral,true,Legacy ID: CRM-000382
+Lakshmi,Singh,lakshmi.singh@yahoo.co.in,9418948543,Hyderabad,Telangana,India,1980-06-17,Phone Inquiry,false,Legacy ID: CRM-000383
+Tanya,Bhardwaj,tanya.bhardwaj@hotmail.com,+91 88131 04502,Gurugram,Haryana,India,2000-02-26,Phone Inquiry,true,Legacy ID: CRM-000384
+A.,Das,anjali.das@yahoo.co.in,,Bengaluru,Karnataka,India,1989-03-26,Web,true,Legacy ID: CRM-000385
+Anjali,Das,,+91 90673 98344,Bengaluru,Karnataka,India,,Phone Inquiry,false,Legacy ID: CRM-000386
+Manpreet,Singh,manpreet.singh1998@gmail.com,8156239209,Chandigarh,Chandigarh,India,1969-07-25,Web,true,Legacy ID: CRM-000387
+Rahul,Jain,rahul.jain@outlook.com,87602-20695,Mumbai,Maharashtra,India,1979-01-28,Purchased List,true,Legacy ID: CRM-000388
+Deepak,Reddy,deepak.reddy@outlook.com,73345-11009,Delhi,Delhi,India,1976-05-12,Other,true,Legacy ID: CRM-000389
+Vikram,Bhardwaj,vikram.bhardwaj1975@gmail.com,09721688005,Gurugram,Haryana,India,1987-10-24,Phone Inquiry,true,Legacy ID: CRM-000390
+Aanya,Mukherjee,aanya.mukherjee18@gmail.com,+91 60283 94823,Delhi,Delhi,India,1997-10-19,Purchased List,false,Legacy ID: CRM-000391
+Farhan,Mehta,farhan.mehta1992@gmail.com,09775691983,Chandigarh,Chandigarh,India,1981-12-18,Phone Inquiry,true,Legacy ID: CRM-000392
+Ananya,Tiwari,ananya.tiwari@gmail.com,+91-9622913167,Bengaluru,Karnataka,India,1998-10-14,Web,true,Legacy ID: CRM-000393
+Riya,Rao,riya.rao@yahoo.co.in,08440766349,Chandigarh,Chandigarh,India,1985-05-08,Purchased List,false,Legacy ID: CRM-000394
+Swati,Bansal,swati.bansal@gmail.com,08421880879,Chandigarh,Chandigarh,India,1976-10-29,Partner Referral,false,Legacy ID: CRM-000395
+Vivaan,Mishra,vivaan.mishra44@outlook.com,7559664721,Noida,Uttar Pradesh,India,1973-02-23,Web,false,Legacy ID: CRM-000396
+Pallavi,Mehta,pallavi.mehta@gmail.com,09447017320,Kolkata,West Bengal,India,1982-12-16,Phone Inquiry,false,Legacy ID: CRM-000397
+Pallavi,Mehta,,09447017320,Kolkata,West Bengal,India,,Phone Inquiry,false,Legacy ID: CRM-000398
+Isha,Deshpande,isha.deshpande@gmail.com,09810558000,Gurgaon,Haryana,India,1970-05-19,Web,false,Legacy ID: CRM-000399
+Tarun,Qureshi,tarun.qureshi1982@hotmail.com,70457-35323,Bengaluru,Karnataka,India,1989-09-23,Purchased List,true,Legacy ID: CRM-000400
+Saaanvi,Patel,saanvi.patel@outlook.com,67126-15838,Pune,Maharashtra,India,1979-07-20,Web,false,Legacy ID: CRM-000401
+Dev,Arora,,06944258922,Jaipur,Rajasthan,India,1994-06-07,Web,false,Legacy ID: CRM-000402
+A.,Mishra,amit.mishra@gmail.com,+91-7070204262,Bengaluru,Karnataka,India,1974-01-20,Purchased List,false,Legacy ID: CRM-000403
+Rashmi,Sandhu,rashmi.sandhu@yahoo.co.in,9764979741,Mumbai,Maharashtra,India,1983-03-31,Other,false,Legacy ID: CRM-000404
+Kavya,Chatterjee,kavya.chatterjee55@gmail.com,61952-96353,Delhi,Delhi,India,1988-09-24,Partner Referral,false,Legacy ID: CRM-000405
+Sneha,Pillai,sneha.pillai74@gmail.com,68822-30958,Calcutta,West Bengal,India,1969-06-23,Purchased List,false,Legacy ID: CRM-000406
+Rohit,Chopra,rohit.chopra@gmail.com,63756-58963,Bengaluru,Karnataka,India,1974-10-19,Phone Inquiry,true,Legacy ID: CRM-000407
+Varun,Yadav,varun.yadav@yahoo.co.in,+91 80342 36220,Delhi,Delhi,India,1965-11-03,Phone Inquiry,false,Legacy ID: CRM-000408
+Saanvi,Gill,saanvi.gill@outlook.com,6225909566,Gurugram,Haryana,India,1999-07-08,Web,true,Legacy ID: CRM-000409
+Sandeep,Bansal,sandeep.bansal1992@outlook.com,61707-40392,Gurugram,Haryana,India,1997-12-24,Web,true,Legacy ID: CRM-000410
+Imran,Jain,imran.jain@yahoo.co.in,9220542216,Delhi,Delhi,India,2001-08-16,Web,false,Legacy ID: CRM-000411
+Simran,Grewal,simran.grewal@outlook.com,09020596851,Chandigarh,Chandigarh,India,1972-03-05,Other,true,Legacy ID: CRM-000412
+G.,Arora,gaurav.arora@hotmail.com,77262-94206,Gurugram,Haryana,India,1973-09-23,Web,false,Legacy ID: CRM-000413
+Suresh,Rathore,suresh.rathore@gmail.com,71215-48158,Hyderabad,Telangana,India,1999-04-03,Phone Inquiry,false,Legacy ID: CRM-000414
+Suresh,Rathore,,7121548158,Hyderabad,Telangana,India,,Phone Inquiry,false,Legacy ID: CRM-000415
+Kunal,Chopra,kunal.chopra@hotmail.com,+91 88314 78911,Delhi,Delhi,India,1990-10-23,Partner Referral,false,Legacy ID: CRM-000416
+Ananya,Mukherjee,ananya.mukherjee56@gmail.com,07000532853,Bengaluru,Karnataka,India,1988-10-01,Phone Inquiry,true,Legacy ID: CRM-000417
+Aarav,Iyer,aarav.iyer@outlook.com,+91 98627 63328,Mumbai,Maharashtra,India,1980-01-31,Other,false,Legacy ID: CRM-000418
+RAMESH,RATHORE,ramesh.rathore1984@gmail.com,68835-27918,Hyderabad,Telangana,India,1998-11-22,Purchased List,false,Legacy ID: CRM-000419
+Diya,Sharma,diya.sharma1974@gmail.com,+91-9976178159,Pune,Maharashtra,India,1997-02-16,Partner Referral,true,Legacy ID: CRM-000420
+Manish,Gupta,manish.gupta@yahoo.co.in,+91-7484581308,Delhi,Delhi,India,1998-01-21,Purchased List,false,Legacy ID: CRM-000421
+iVkram,Yadav,vikram.yadav@yahoo.co.in,06566199530,Noida,Uttar Pradesh,India,1994-10-30,Partner Referral,true,Legacy ID: CRM-000422
+Knual,Kulkarni,kunal.kulkarni1977@hotmail.com,7600136510,Mumbai,Maharashtra,India,1986-09-17,Phone Inquiry,false,Legacy ID: CRM-000423
+Simran,Kulkarni,simran.kulkarni@yahoo.co.in,+91-7965213835,Hyderabad,Telangana,India,1996-06-20,Phone Inquiry,true,Legacy ID: CRM-000424
+Arnav,Bansal,arnav.bansal1993@outlook.com,+91-9105080549,Bengaluru,Karnataka,India,1980-12-30,Web,true,Legacy ID: CRM-000425
+Naveen,Naidu,naveen.naidu1989@yahoo.co.in,7449305378,Bengaluru,Karnataka,India,1975-10-02,Purchased List,true,Legacy ID: CRM-000426
+Saani,Joshi,saanvi.joshi@gmail.com,93048-62515,Kolkata,West Bengal,India,2001-06-07,Web,true,Legacy ID: CRM-000427
+Sandeep,Muherjee,sandeep.mukherjee38@yahoo.co.in,67762-96914,Mumbai,Maharashtra,India,1976-10-02,Phone Inquiry,true,Legacy ID: CRM-000428
+Arjun,Rao,arjun.rao1971@gmail.com,+91 82118 96844,Gurugram,Haryana,India,1991-02-23,Web,true,Legacy ID: CRM-000429
+Aditi,Gill,aditi.gill1980@gmail.com,+91-6123038856,Kolkata,West Bengal,India,1990-11-10,Web,true,Legacy ID: CRM-000430
+Krishna,Sandhu,krishna.sandhu1991@gmail.com,07662713589,Noida,Uttar Pradesh,India,1989-06-05,Partner Referral,false,Legacy ID: CRM-000431
+Kunnal,Mehta,kunal.mehta@hotmail.com,+91 99255 11643,Noida,Uttar Pradesh,India,1966-04-07,Phone Inquiry,true,Legacy ID: CRM-000432
+A.,Bhardwaj,ankit.bhardwaj23@gmail.com,+91 84161 01975,Pune,Maharashtra,India,1973-06-23,Partner Referral,true,Legacy ID: CRM-000433
+Kabir,Banerjee,kabir.banerjee1978@yahoo.co.in,6444718939,Ahmedabad,Gujarat,India,1976-09-01,Purchased List,false,Legacy ID: CRM-000434
+Tarun,Mukherjee,tarun.mukherjee@yahoo.co.in,+91-6909153860,Delhi,Delhi,India,1968-01-17,Other,true,Legacy ID: CRM-000435
+Riya,Mehta,riya.mehta@yahoo.co.in,+91 60794 19324,Pune,Maharashtra,India,1993-06-15,Purchased List,true,Legacy ID: CRM-000436
+Ritika,Patel,ritika.patel1979@gmail.com,+91-9202009536,Mumbai,Maharashtra,India,1965-06-13,Purchased List,false,Legacy ID: CRM-000437
+H.,Verma,harpreet.verma@outlook.com,+91 91307 22113,Gurugram,Haryana,India,1970-05-20,Web,false,Legacy ID: CRM-000438
+Kabbir,Dhillon,kabir.dhillon1997@gmail.com,+91-9237600884,Kolkata,West Bengal,India,1969-11-30,Phone Inquiry,false,Legacy ID: CRM-000439
+Sidhdarth,Mehta,siddharth.mehta98@hotmail.com,+91 73534 84864,Chandigarh,Chandigarh,India,1977-04-22,Partner Referral,false,Legacy ID: CRM-000440
+Amit,Agarwal,amit.agarwal@outlook.com,+91 93798 97906,Delhi,Delhi,India,1982-06-06,Web,false,Legacy ID: CRM-000441
+Sana,Dhillon,sana.dhillon@gmail.com,65198-54582,Bengaluru,Karnataka,India,1999-03-19,Phone Inquiry,false,Legacy ID: CRM-000442
+Arujn,Jain,arjun.jain@yahoo.co.in,74358-61768,Pune,Maharashtra,India,1987-11-07,Phone Inquiry,false,Legacy ID: CRM-000443
+Aditi,Chopra,aditi.chopra7@gmail.com,98212-15649,Gurugram,Haryana,India,1993-11-01,Other,true,Legacy ID: CRM-000444
+Sandeep,Qureshi,sandeep.qureshi68@outlook.com,+91 66343 59488,Bengaluru,Karnataka,India,1983-03-06,Web,true,Legacy ID: CRM-000445
+Arrnav,Jain,arnav.jain@gmail.com,73016-04986,Hyderabad,Telangana,India,1972-04-27,Phone Inquiry,false,Legacy ID: CRM-000446
+Vikam,Pandey,vikram.pandey@gmail.com,07471317197,Chandigarh,Chandigarh,India,1969-06-03,Purchased List,false,Legacy ID: CRM-000447
+Vikram,Joshi,vikram.joshi@outlook.com,+91-9477183753,Gurgaon,Haryana,India,1995-03-23,Partner Referral,true,Legacy ID: CRM-000448
+Tarun,Deshpande,tarun.deshpande@hotmail.com,7362216906,Chennai,Tamil Nadu,India,1995-08-09,Partner Referral,false,Legacy ID: CRM-000449
+Divya,Bose,divya.bose1997@gmail.com,+91 60530 21516,Hyderabad,Telangana,India,1975-06-10,Web,false,Legacy ID: CRM-000450
+KUNAL,NAIDU,kunal.naidu1986@hotmail.com,+91 99320 55340,Mumbai,Maharashtra,India,1979-09-08,Partner Referral,true,Legacy ID: CRM-000451
+Rohan,Pillai,rohan.pillai48@gmail.com,+91 67162 04298,Delhi,Delhi,India,1981-10-24,Partner Referral,false,Legacy ID: CRM-000452
+Jasleen,Thakur,jasleen.thakur@gmail.com,+91-8693172947,Gurugram,Haryana,India,1976-09-01,Phone Inquiry,false,Legacy ID: CRM-000453
+Jasleen,Thakur,,+91 86931 72947,Gurugram,Haryana,India,,Phone Inquiry,false,Legacy ID: CRM-000454
+Aditi,Iyer,aditi.iyer@hotmail.com,+91 68864 06756,Jaipur,Rajasthan,India,1972-06-11,Other,false,Legacy ID: CRM-000455
+N.,Ansari,nisha.ansari@outlook.com,09131753626,Gurugram,Haryana,India,1996-06-15,Other,false,Legacy ID: CRM-000456
+Manish,Kulkarni,manish.kulkarni@outlook.com,+91 74032 11535,Hyderabad,Telangana,India,1978-06-09,Web,false,Legacy ID: CRM-000457
+Priya,Arora,priya.arora@outlook.com,62578-46408,Chennai,Tamil Nadu,India,1996-11-16,Purchased List,false,Legacy ID: CRM-000458
+Aanyya,Verma,aanya.verma@hotmail.com,+91 85196 28222,Bengaluru,Karnataka,India,1972-09-20,Web,false,Legacy ID: CRM-000459
+Vandna,Sandhu,vandana.sandhu1975@gmail.com,07538922247,Pune,Maharashtra,India,1971-06-11,Web,false,Legacy ID: CRM-000460
+Anjali,Pandey,anjali.pandey@gmail.com,08188701799,Delhi,Delhi,India,1978-10-20,Phone Inquiry,false,Legacy ID: CRM-000461
+Riya,Mukherjee,RIYA.MUKHERJEE23@HOTMAIL.COM,08359900937,Chennai,Tamil Nadu,India,1985-06-09,Web,false,Legacy ID: CRM-000462
+Diya,Mishra,diya.mishra1999@gmail.com,6435660503,Hyderabad,Telangana,India,1986-09-02,Other,false,Legacy ID: CRM-000463
+Simran,Malhotra,simran.malhotra@hotmail.com,89014-59967,Gurugram,Haryana,India,1965-02-02,Purchased List,false,Legacy ID: CRM-000464
+Naveen,Malhotra,naveen.malhotra@outlook.com,7178167806,Jaipur,Rajasthan,India,1994-03-07,Purchased List,true,Legacy ID: CRM-000465
+DEV,ANSARI,DEV.ANSARI@YAHOO.CO.IN,+91 76407 03088,Mumbai,Maharashtra,India,1983-08-08,Other,false,Legacy ID: CRM-000466
+Suresh,Kulkarni,suresh.kulkarni1987@gmail.com,07159773854,Hyderabad,Telangana,India,2001-03-11,Other,false,Legacy ID: CRM-000467
+Naveen,Desai,naveen.desai@gmail.com,06429862269,Delhi,Delhi,India,1972-12-08,Phone Inquiry,false,Legacy ID: CRM-000468
+Imran,Reddy,imran.reddy@gmail.com,94224-05920,Delhi,Delhi,India,2000-11-26,Other,true,Legacy ID: CRM-000469
+Ritika,Banerjee,ritika.banerjee2000@gmail.com,+91-9100777321,Delhi,Delhi,India,1996-03-06,Other,false,Legacy ID: CRM-000470
+Karan,Tiwari,karan.tiwari@gmail.com,08474890476,Delhi,Delhi,India,1983-07-21,Partner Referral,true,Legacy ID: CRM-000471
+Karan,Chatterjee,karan.chatterjee@gmail.com,+91 81456 34091,Pune,Maharashtra,India,1976-09-09,Web,false,Legacy ID: CRM-000472
+Karan,Chatterjee,,8145634091,Pune,Maharashtra,India,,Phone Inquiry,false,Legacy ID: CRM-000473
+Panav,Qureshi,pranav.qureshi83@yahoo.co.in,+91-6409304541,Noida,Uttar Pradesh,India,1995-07-20,Partner Referral,false,Legacy ID: CRM-000474
+Ananya,Bhardwaj,ananya.bhardwaj@gmail.com,6788026529,Kolkata,West Bengal,India,1997-05-03,Web,false,Legacy ID: CRM-000475
+Jasleen,Yadav,jasleen.yadav1977@gmail.com,+91-9047220539,Gurugram,Haryana,India,1988-11-09,Phone Inquiry,false,Legacy ID: CRM-000476
+Kunal,Gupta,kunal.gupta@yahoo.co.in,89205-48944,Gurugram,Haryana,India,1991-09-14,Partner Referral,false,Legacy ID: CRM-000477
+Arnav,Das,arnav.das1980@yahoo.co.in,,Delhi,Delhi,India,1985-01-30,Other,false,Legacy ID: CRM-000478
+Aanya,Gill,aanya.gill@gmail.com,+91-9453157905,Noida,Uttar Pradesh,India,1997-03-25,Purchased List,false,Legacy ID: CRM-000479
+Manpret,Patel,manpreet.patel@gmail.com,09680570237,Chennai,Tamil Nadu,India,1966-02-23,Web,false,Legacy ID: CRM-000480
+Vandana,Nair,vandana.nair50@gmail.com,09999138310,Hyderabad,Telangana,India,1987-02-08,Partner Referral,false,Legacy ID: CRM-000481
+Nsiha,Reddy,NISHA.REDDY2001@OUTLOOK.COM,+91 89149 86099,Pune,Maharashtra,India,1974-09-17,Purchased List,true,Legacy ID: CRM-000482
+Ananya,Nair,ananya.nair2002@yahoo.co.in,07378870584,Chandigarh,Chandigarh,India,1982-12-24,Partner Referral,false,Legacy ID: CRM-000483
+Suresh,Dhillon,suresh.dhillon1987@yahoo.co.in,93830-97236,Chandigarh,Chandigarh,India,1970-12-10,Phone Inquiry,true,Legacy ID: CRM-000484
+Tarun,Reddy,tarun.reddy@gmail.com,87512-47640,Bengaluru,Karnataka,India,1978-01-23,Web,false,Legacy ID: CRM-000485
+Ankit,Patel,ankit.patel1974@gmail.com,09402338686,Noida,Uttar Pradesh,India,1983-04-25,Web,false,Legacy ID: CRM-000486
+nisha,agarwal,nisha.agarwal41@gmail.com,8674809573,Delhi,Delhi,India,1997-03-05,Web,false,Legacy ID: CRM-000487
+Krishna,Bhatia,krishna.bhatia1987@gmail.com,06734203197,Jaipur,Rajasthan,India,1994-06-10,Partner Referral,false,Legacy ID: CRM-000488
+Saurabh,Chauhan,saurabh.chauhan1978@gmail.com,+91-9841962332,Delhi,Delhi,India,2002-08-15,Purchased List,false,Legacy ID: CRM-000489
+Rashmi,Naidu,rashmi.naidu@outlook.com,7790065487,Delhi,Delhi,India,1983-11-16,Web,false,Legacy ID: CRM-000490
+Naveen,Kumar,naveen.kumar96@gmail.com,+91 65915 79089,Ahmedabad,Gujarat,India,1976-10-28,Partner Referral,false,Legacy ID: CRM-000491
+Neha,Das,neha.das@yahoo.co.in,91219-05188,Gurgaon,Haryana,India,1994-02-08,Other,true,Legacy ID: CRM-000492
+Harsh,Patel,harsh.patel@gmail.com,7982689334,Bangalore,Karnataka,India,1979-09-17,Phone Inquiry,false,Legacy ID: CRM-000493
+Tanvi,Gill,tanvi.gill@gmail.com,+91-9012350368,Gurugram,Haryana,India,1985-03-15,Web,false,Legacy ID: CRM-000494
+Mansh,Iyer,manish.iyer91@gmail.com,6868302915,Pune,Maharashtra,India,1968-02-05,Web,false,Legacy ID: CRM-000495
+A.,Bose,anjali.bose39@yahoo.co.in,+91-9462159584,Delhi,Delhi,India,1965-08-04,Other,true,Legacy ID: CRM-000496
+KARAN,MUKHERJEE,karan.mukherjee@hotmail.com,+91-8760948377,Bengaluru,Karnataka,India,1999-07-28,Purchased List,true,Legacy ID: CRM-000497
+saurabh,khan,saurabh.khan@outlook.com,76677-19666,Noida,Uttar Pradesh,India,1971-01-12,Purchased List,true,Legacy ID: CRM-000498
+Siddharth,Bansal,siddharth.bansal27@gmail.com,76759-01779,Bangalore,Karnataka,India,1992-09-01,Web,false,Legacy ID: CRM-000499
+Ishaan,Rao,ishaan.rao@gmail.com,83915-11436,Mumbai,Maharashtra,India,1985-06-17,Other,false,Legacy ID: CRM-000500
+Harsh,Khan,harsh.khan@yahoo.co.in,09933154230,Mumbai,Maharashtra,India,1994-01-09,Purchased List,false,Legacy ID: CRM-000501
+Aditya,Thakur,aditya.thakur20@gmail.com,+91-9015145992,Noida,Uttar Pradesh,India,1971-02-17,Web,false,Legacy ID: CRM-000502
+Reyansh,Reddy,reyansh.reddy@gmail.com,06113484339,Delhi,Delhi,India,1972-02-07,Phone Inquiry,false,Legacy ID: CRM-000503
+Manpreet,Desai,manpreet.desai@gmail.com,96024-98663,Bengaluru,Karnataka,India,1977-05-31,Web,false,Legacy ID: CRM-000504
+Varun,Kapoor,VARUN.KAPOOR89@GMAIL.COM,+91-8591476253,Pune,Maharashtra,India,1976-03-07,Web,false,Legacy ID: CRM-000505
+Rashmi,Ansari,RASHMI.ANSARI@HOTMAIL.COM,08685863906,Bengaluru,Karnataka,India,1992-04-17,Other,true,Legacy ID: CRM-000506
+Swti,Naidu,swati.naidu1982@gmail.com,87625-42926,Delhi,Delhi,India,2001-03-07,Web,false,Legacy ID: CRM-000507
+Vivaan,Arora,vivaan.arora@hotmail.com,9649719670,Chandigarh,Chandigarh,India,1982-06-24,Web,false,Legacy ID: CRM-000508
+Vivaan,Arora,,96497-19670,Chandigarh,Chandigarh,India,,Phone Inquiry,false,Legacy ID: CRM-000509
+Arjun,Agarwal,arjun.agarwal@gmail.com,7344376734,Chandigarh,Chandigarh,India,1987-02-22,Web,false,Legacy ID: CRM-000510
+Kabir,Grewal,kabir.grewal@outlook.com,6287452719,Chennai,Tamil Nadu,India,1992-02-24,Web,false,Legacy ID: CRM-000511
+Kaabir,Bhatia,kabir.bhatia2@gmail.com,+91-7835999400,Delhi,Delhi,India,2000-01-26,Web,false,Legacy ID: CRM-000512
+Kunal,Mishra,kunal.mishra@gmail.com,6065673374,Pune,Maharashtra,India,1974-12-28,Phone Inquiry,false,Legacy ID: CRM-000513
+Adii,Tiwari,aditi.tiwari@hotmail.com,99929-64447,Chennai,Tamil Nadu,India,1972-10-23,Partner Referral,false,Legacy ID: CRM-000514
+Reyansh,Dhillon,reyansh.dhillon44@hotmail.com,6585574906,Gurugram,Haryana,India,1967-10-04,Web,false,Legacy ID: CRM-000515
+Siddhartth,Verma,siddharth.verma1985@gmail.com,9693706325,Noida,Uttar Pradesh,India,2000-01-01,Web,true,Legacy ID: CRM-000516
+Saanvi,Chopra,saanvi.chopra@gmail.com,+91 77971 90000,Gurugram,Haryana,India,1997-02-05,Web,true,Legacy ID: CRM-000517
+Karan,Naidu,karan.naidu2000@hotmail.com,09067635322,Pune,Maharashtra,India,2001-09-23,Other,false,Legacy ID: CRM-000518
+Sana,Menon,sana.menon@gmail.com,06375398923,Chandigarh,Chandigarh,India,1992-06-24,Purchased List,false,Legacy ID: CRM-000519
+Suresh,Pillai,suresh.pillai1991@hotmail.com,+91-8382011406,Delhi,Delhi,India,1967-11-09,Web,true,Legacy ID: CRM-000520
+Kuunal,Qureshi,kunal.qureshi1999@gmail.com,+91 64579 72518,Noida,Uttar Pradesh,India,1978-02-16,Other,false,Legacy ID: CRM-000521
+Moit,Desai,mohit.desai@gmail.com,07500115461,Delhi,Delhi,India,1993-08-30,Purchased List,true,Legacy ID: CRM-000522
+Divya,Gill,divya.gill45@gmail.com,+91 81353 81483,Pune,Maharashtra,India,1993-09-03,Phone Inquiry,false,Legacy ID: CRM-000523
+Kiran,Reddy,kiran.reddy@yahoo.co.in,62716-98837,Noida,Uttar Pradesh,India,1970-01-23,Web,false,Legacy ID: CRM-000524
+Swati,Kulkarni,swati.kulkarni@hotmail.com,6505835345,Noida,Uttar Pradesh,India,1981-05-12,Phone Inquiry,true,Legacy ID: CRM-000525
+Swati,Joshi,swati.joshi@hotmail.com,78546-13087,Pune,Maharashtra,India,1997-01-27,Partner Referral,true,Legacy ID: CRM-000526
+Divya,Mukherjee,divya.mukherjee@gmail.com,97914-63866,Mumbai,Maharashtra,India,1981-05-14,Web,false,Legacy ID: CRM-000527
+Meera,Reddy,meera.reddy@outlook.com,+91 89764 08385,Mumbai,Maharashtra,India,1986-08-29,Other,false,Legacy ID: CRM-000528
+Rohit,Bansal,rohit.bansal@gmail.com,64860-05009,Pune,Maharashtra,India,1993-09-07,Web,false,Legacy ID: CRM-000529
+Riya,Ansari,riya.ansari@gmail.com,06186074290,Gurgaon,Haryana,India,1974-06-17,Purchased List,true,Legacy ID: CRM-000530
+Saurabh,Khan,saurabh.khan@yahoo.co.in,+91-6775870894,Delhi,Delhi,India,1991-10-14,Web,true,Legacy ID: CRM-000531
+Reyansh,Iyer,reyansh.iyer1972@gmail.com,+91-8672007342,Gurugram,Haryana,India,1977-02-04,Web,false,Legacy ID: CRM-000532
+Aarav,Sethi,aarav.sethi@gmail.com,70450-28143,Mumbai,Maharashtra,India,1992-10-31,Web,true,Legacy ID: CRM-000533
+Isha,Mehta,isha.mehta1992@gmail.com,08265274286,Hyderabad,Telangana,India,1973-08-19,Purchased List,false,Legacy ID: CRM-000534
+Swati,Jain,swati.jain@gmail.com,+91-9412608481,Ahmedabad,Gujarat,India,1968-10-05,Web,false,Legacy ID: CRM-000535
+Amit,Qureshi,amit.qureshi@outlook.com,7823134275,Delhi,Delhi,India,1978-02-19,Partner Referral,false,Legacy ID: CRM-000536
+Pallavi,Banerjee,pallavi.banerjee@outlook.com,+91 70445 00202,Gurugram,Haryana,India,1993-08-14,Web,false,Legacy ID: CRM-000537
+Harpreet,Mukherjee,harpreet.mukherjee1970@hotmail.com,+91 74675 41823,Chandigarh,Chandigarh,India,1972-09-27,Phone Inquiry,true,Legacy ID: CRM-000538
+Harpreet,Jain,HARPREET.JAIN@OUTLOOK.COM,07882532083,Delhi,Delhi,India,1990-05-12,Purchased List,false,Legacy ID: CRM-000539
+Vandana,Sethi,vandana.sethi91@outlook.com,+91 92000 52141,Bengaluru,Karnataka,India,2000-08-18,Web,false,Legacy ID: CRM-000540
+SURESH,PANDEY,suresh.pandey1977@outlook.com,+91 69445 45697,Noida,Uttar Pradesh,India,1984-03-10,Web,true,Legacy ID: CRM-000541
+Nikhil,Pandey,nikhil.pandey@yahoo.co.in,+91 86896 98703,Chandigarh,Chandigarh,India,1995-08-20,Purchased List,false,Legacy ID: CRM-000542
+Manish,Das,manish.das@hotmail.com,09578984974,Delhi,Delhi,India,1969-12-14,Partner Referral,false,Legacy ID: CRM-000543
+Manpreet,Desai,manpreet.desai14@outlook.com,93563-16312,Noida,Uttar Pradesh,India,1992-04-23,Web,false,Legacy ID: CRM-000544
+Farhan,Kumar,farhan.kumar83@hotmail.com,70130-71675,Gurugram,Haryana,India,1986-02-03,Web,true,Legacy ID: CRM-000545
+Dev,Reddy,dev.reddy@gmail.com,06476212360,Bengaluru,Karnataka,India,2001-12-31,Partner Referral,false,Legacy ID: CRM-000546
+A.,Reddy,anjali.reddy32@gmail.com,+91-9859096459,Delhi,Delhi,India,1986-09-08,Other,false,Legacy ID: CRM-000547
+Manpreet,Ansari,manpreet.ansari@gmail.com,+91-9072173402,Kolkata,West Bengal,India,1983-06-22,Partner Referral,false,Legacy ID: CRM-000548
+Meera,Joshi,meera.joshi@hotmail.com,+91 82024 35094,Noida,Uttar Pradesh,India,1977-04-16,Other,false,Legacy ID: CRM-000549
+Aanya,Gupta,aanya.gupta1997@hotmail.com,79533-86194,Pune,Maharashtra,India,1977-07-31,Other,false,Legacy ID: CRM-000550
+Simran,Sharma,simran.sharma@gmail.com,+91 88893 34375,Noida,Uttar Pradesh,India,2001-06-03,Web,false,Legacy ID: CRM-000551
+Aanya,Patel,aanya.patel@yahoo.co.in,08288959470,Kolkata,West Bengal,India,1969-04-24,Partner Referral,true,Legacy ID: CRM-000552
+Manpreet,Gupta,manpreet.gupta@gmail.com,9344966866,Delhi,Delhi,India,1985-07-11,Phone Inquiry,true,Legacy ID: CRM-000553
+Aditya,Joshi,aditya.joshi@yahoo.co.in,08715675665,Pune,Maharashtra,India,1994-09-15,Other,false,Legacy ID: CRM-000554
+P.,Agarwal,pallavi.agarwal31@gmail.com,+91-7648163849,Noida,Uttar Pradesh,India,1965-11-07,Partner Referral,false,Legacy ID: CRM-000555
+Rahul,Rathore,rahul.rathore@gmail.com,+91 88527 75867,Delhi,Delhi,India,1976-05-20,Web,true,Legacy ID: CRM-000556
+Kabir,Patel,KABIR.PATEL66@HOTMAIL.COM,+91-9594434852,Delhi,Delhi,India,1983-11-02,Other,false,Legacy ID: CRM-000557
+Sherya,Chopra,shreya.chopra@gmail.com,+91 61573 30990,Gurugram,Haryana,India,1971-09-24,Phone Inquiry,true,Legacy ID: CRM-000558
+Farhan,Mishra,farhan.mishra@gmail.com,7746614477,Pune,Maharashtra,India,1983-06-19,Purchased List,false,Legacy ID: CRM-000559
+Swati,Yadav,SWATI.YADAV18@GMAIL.COM,+91-8089142330,Chennai,Tamil Nadu,India,1995-07-10,Other,false,Legacy ID: CRM-000560
+A.,Chopra,aanya.chopra@gmail.com,+91 94733 89147,Gurugram,Haryana,India,1992-03-03,Purchased List,false,Legacy ID: CRM-000561
+Dev,Verma,dev.verma@hotmail.com,7257228703,Mumbai,Maharashtra,India,1997-12-21,Partner Referral,false,Legacy ID: CRM-000562
+Shalini,Agarwal,shalini.agarwal1991@gmail.com,+91 62860 60480,Delhi,Delhi,India,2001-02-04,Partner Referral,false,Legacy ID: CRM-000563
+Meera,Kumar,meera.kumar@hotmail.com,07860479471,Delhi,Delhi,India,2000-10-12,Web,true,Legacy ID: CRM-000564
+Sneha,Yadav,sneha.yadav@gmail.com,+91-6534728395,Delhi,Delhi,India,1987-02-19,Web,false,Legacy ID: CRM-000565
+Sana,Rathore,sana.rathore1979@gmail.com,08822828018,Mumbai,Maharashtra,India,1984-02-28,Phone Inquiry,false,Legacy ID: CRM-000566
+Kunal,Grewal,KUNAL.GREWAL@OUTLOOK.COM,+91 75820 16301,Chennai,Tamil Nadu,India,1999-01-23,Web,false,Legacy ID: CRM-000567
+R.,Bhardwaj,ritika.bhardwaj73@outlook.com,+91 61804 03348,Bengaluru,Karnataka,India,1998-07-03,Other,false,Legacy ID: CRM-000568
+Gurpreet,Gill,gurpreet.gill79@yahoo.co.in,+91 86272 05364,Delhi,Delhi,India,1981-05-07,Partner Referral,true,Legacy ID: CRM-000569
+Pallavi,Yadav,pallavi.yadav1976@gmail.com,6775512944,Pune,Maharashtra,India,1989-04-16,Partner Referral,false,Legacy ID: CRM-000570
+Sneha,Das,sneha.das@gmail.com,+91 89070 55494,Hyderabad,Telangana,India,2000-12-01,Partner Referral,false,Legacy ID: CRM-000571
+Shreya,Rao,shreya.rao65@gmail.com,63547-41685,Mumbai,Maharashtra,India,1981-09-23,Partner Referral,false,Legacy ID: CRM-000572
+Shreya,Rao,,+91 63547 41685,Mumbai,Maharashtra,India,,Phone Inquiry,false,Legacy ID: CRM-000573
+Arav,Banerjee,ARNAV.BANERJEE84@OUTLOOK.COM,07841362334,Bengaluru,Karnataka,India,1993-06-03,Partner Referral,true,Legacy ID: CRM-000574
+Arjun,Qureshi,arjun.qureshi1987@gmail.com,9869285516,Hyderabad,Telangana,India,1995-05-13,Purchased List,true,Legacy ID: CRM-000575
+Ankit,Sethi,ankit.sethi1979@gmail.com,96911-22321,Chennai,Tamil Nadu,India,1990-06-18,Web,true,Legacy ID: CRM-000576
+Rmesh,Das,ramesh.das1994@gmail.com,+91-6326456496,Hyderabad,Telangana,India,1992-04-30,Web,true,Legacy ID: CRM-000577
+Aditi,Khnana,aditi.khanna@yahoo.co.in,06745469351,Bangalore,Karnataka,India,1968-11-22,Web,false,Legacy ID: CRM-000578
+Vandana,Mishra,,+91 90305 68709,Mumbai,Maharashtra,India,1989-04-06,Purchased List,true,Legacy ID: CRM-000579
+Gurpreet,Arora,gurpreet.arora98@outlook.com,90064-34597,Delhi,Delhi,India,2000-06-29,Phone Inquiry,false,Legacy ID: CRM-000580
+Aditi,Chatterjee,aditi.chatterjee@yahoo.co.in,08456572897,Chandigarh,Chandigarh,India,1999-01-05,Web,false,Legacy ID: CRM-000581
+Gaurav,Chopra,gaurav.chopra@hotmail.com,+91-7512896220,Noida,Uttar Pradesh,India,2000-05-04,Phone Inquiry,false,Legacy ID: CRM-000582
+Ria,Gill,riya.gill@hotmail.com,6695235786,Delhi,Delhi,India,1997-02-03,Web,true,Legacy ID: CRM-000583
+DEEPAK,GILL,deepak.gill@yahoo.co.in,+91-6425542805,Delhi,Delhi,India,1984-01-13,Purchased List,false,Legacy ID: CRM-000584
+Pallavi,Bose,pallavi.bose@hotmail.com,+91-6701958663,Chandigarh,Chandigarh,India,2002-01-26,Other,true,Legacy ID: CRM-000585
+Ananya,Grewal,ananya.grewal@gmail.com,66033-28880,Mumbai,Maharashtra,India,1980-03-08,Other,false,Legacy ID: CRM-000586
+Pallavi,Gill,pallavi.gill@gmail.com,07309587238,Delhi,Delhi,India,1991-08-31,Other,false,Legacy ID: CRM-000587
+Yash,Yadav,yash.yadav@hotmail.com,89379-58291,Bengaluru,Karnataka,India,1968-09-26,Other,false,Legacy ID: CRM-000588
+Aditya,Deshpande,aditya.deshpande@gmail.com,9262591883,Noida,Uttar Pradesh,India,1972-09-16,Web,false,Legacy ID: CRM-000589
+Anit,Singh,ankit.singh@gmail.com,07762426622,Pune,Maharashtra,India,1991-09-17,Web,true,Legacy ID: CRM-000590
+Nisha,Kulkarni,nisha.kulkarni1990@hotmail.com,+91 97715 39022,Hyderabad,Telangana,India,1971-06-06,Phone Inquiry,false,Legacy ID: CRM-000591
+Reyansh,Pillai,reyansh.pillai@yahoo.co.in,98735-54042,Jaipur,Rajasthan,India,1981-04-25,Partner Referral,true,Legacy ID: CRM-000592
+Neha,Singh,neha.singh@gmail.com,83720-33505,Delhi,Delhi,India,1996-10-16,Web,false,Legacy ID: CRM-000593
+Gurpreet,Bose,gurpreet.bose@gmail.com,74564-11992,Hyderabad,Telangana,India,1968-05-19,Purchased List,false,Legacy ID: CRM-000594
+Karan,Qureshi,karan.qureshi@hotmail.com,+91-6761504205,Bengaluru,Karnataka,India,1995-10-07,Partner Referral,false,Legacy ID: CRM-000595
+Arjun,Mukherjee,arjun.mukherjee@gmail.com,06392788881,Gurgaon,Haryana,India,1983-04-15,Partner Referral,true,Legacy ID: CRM-000596
+Ishha,Deshpande,isha.deshpande1971@outlook.com,6697899951,Delhi,Delhi,India,1982-05-21,Other,false,Legacy ID: CRM-000597
+Knal,Patel,kunal.patel@gmail.com,+91 94560 59563,Mumbai,Maharashtra,India,1997-04-15,Other,false,Legacy ID: CRM-000598
+Arnav,Joshi,ARNAV.JOSHI@YAHOO.CO.IN,71678-71926,Noida,Uttar Pradesh,India,1994-10-27,Web,false,Legacy ID: CRM-000599
+Rahul,Sandhu,RAHUL.SANDHU35@GMAIL.COM,09351896225,Delhi,Delhi,India,1970-10-26,Web,false,Legacy ID: CRM-000600
+T.,Banerjee,tanvi.banerjee1995@gmail.com,+91-8442022482,Pune,Maharashtra,India,1968-06-12,Web,false,Legacy ID: CRM-000601
+Karan,Agarwal,karan.agarwal@hotmail.com,+91-6939606104,Kolkata,West Bengal,India,1981-12-22,Web,true,Legacy ID: CRM-000602
+Dev,Grewal,dev.grewal@gmail.com,06413181181,Bangalore,Karnataka,India,1994-12-27,Other,false,Legacy ID: CRM-000603
+Rohit,Rao,rohit.rao@yahoo.co.in,95461-25360,Pune,Maharashtra,India,1991-11-22,Partner Referral,false,Legacy ID: CRM-000604
+K.,Tiwari,kiran.tiwari@gmail.com,06770177375,Delhi,Delhi,India,1984-11-04,Web,false,Legacy ID: CRM-000605
+Saurabh,Singh,saurabh.singh@gmail.com,+91 85967 43338,Ahmedabad,Gujarat,India,1999-10-26,Purchased List,false,Legacy ID: CRM-000606
+SHALINI,PANDEY,shalini.pandey97@gmail.com,93989-70145,Gurugram,Haryana,India,1997-06-28,Purchased List,false,Legacy ID: CRM-000607
+Riya,Sharma,riya.sharma68@hotmail.com,+91-6867233104,Gurugram,Haryana,India,1968-02-25,Web,false,Legacy ID: CRM-000608
+Rohit,Desai,rohit.desai1974@gmail.com,+91-7252826712,Hyderabad,Telangana,India,2002-12-08,Partner Referral,true,Legacy ID: CRM-000609
+Harpreet,Kapoor,harpreet.kapoor@gmail.com,98681-11433,Chennai,Tamil Nadu,India,1986-06-26,Partner Referral,false,Legacy ID: CRM-000610
+Arnav,Pandey,arnav.pandey90@hotmail.com,+91 99025 91204,Bengaluru,Karnataka,India,1974-09-15,Purchased List,false,Legacy ID: CRM-000611
+Pranav,Deshpande,pranav.deshpande84@gmail.com,06258423300,Gurugram,Haryana,India,1993-08-06,Purchased List,false,Legacy ID: CRM-000612
+K.,Malhotra,kavya.malhotra@hotmail.com,+91-9365485220,Hyderabad,Telangana,India,1989-06-09,Phone Inquiry,true,Legacy ID: CRM-000613
+Ishaan,Sharma,ishaan.sharma27@gmail.com,7809166316,Delhi,Delhi,India,1976-05-28,Web,false,Legacy ID: CRM-000614
+Rohit,Verma,rohit.verma@yahoo.co.in,+91 88015 17642,Noida,Uttar Pradesh,India,1965-04-10,Phone Inquiry,false,Legacy ID: CRM-000615
+Gaurav,Saxena,gaurav.saxena@hotmail.com,8523228058,Mumbai,Maharashtra,India,1983-02-24,Phone Inquiry,false,Legacy ID: CRM-000616
+priya,pandey,priya.pandey1990@gmail.com,92778-88260,Noida,Uttar Pradesh,India,1981-02-03,Purchased List,true,Legacy ID: CRM-000617
+Farhan,Sharma,farhan.sharma@outlook.com,75545-92055,Bengaluru,Karnataka,India,2000-03-23,Phone Inquiry,false,Legacy ID: CRM-000618
+K.,Verma,kavya.verma1992@gmail.com,9015221336,Bengaluru,Karnataka,India,1995-02-16,Purchased List,false,Legacy ID: CRM-000619
+Sana,Ansari,sana.ansari@gmail.com,+91-6073794999,Gurugram,Haryana,India,1983-01-29,Other,true,Legacy ID: CRM-000620
+Saurabbh,Bansal,saurabh.bansal@hotmail.com,+91 66043 59839,Noida,Uttar Pradesh,India,1985-03-17,Purchased List,false,Legacy ID: CRM-000621
+Imran,Nair,IMRAN.NAIR@OUTLOOK.COM,07071776135,Chandigarh,Chandigarh,India,1973-07-23,Web,false,Legacy ID: CRM-000622
+gurpreet,sandhu,gurpreet.sandhu12@gmail.com,72735-51497,Gurugram,Haryana,India,1986-11-10,Web,false,Legacy ID: CRM-000623
+Manpreet,Gupta,manpreet.gupta5@gmail.com,+91-9413644594,Pune,Maharashtra,India,1993-06-24,Partner Referral,false,Legacy ID: CRM-000624
+vivaan,desai,vivaan.desai@gmail.com,09446853045,Noida,Uttar Pradesh,India,1984-03-25,Phone Inquiry,false,Legacy ID: CRM-000625
+Lakshmi,Menon,lakshmi.menon5@yahoo.co.in,+91-6512003934,Kolkata,West Bengal,India,1973-03-07,Web,true,Legacy ID: CRM-000626
+Isha,Thaakur,isha.thakur1980@hotmail.com,+91 71053 07122,Delhi,Delhi,India,1998-08-01,Web,true,Legacy ID: CRM-000627
+Ishaan,Reeddy,ishaan.reddy1980@outlook.com,+91 66322 80126,Delhi,Delhi,India,1998-03-23,Other,true,Legacy ID: CRM-000628
+Vivaan,Mishra,vivaan.mishra@yahoo.co.in,82573-78747,Chandigarh,Chandigarh,India,1979-04-09,Web,false,Legacy ID: CRM-000629
+Ishaan,Joshi,ishaan.joshi40@gmail.com,+91 69282 61641,Gurugram,Haryana,India,1980-01-06,Other,false,Legacy ID: CRM-000630
+Gaurav,Mehta,gaurav.mehta1@gmail.com,6785020502,Bangalore,Karnataka,India,1965-07-15,Web,true,Legacy ID: CRM-000631
+Tanya,Menon,tanya.menon@hotmail.com,+91 95974 42526,Chennai,Tamil Nadu,India,1984-10-10,Purchased List,false,Legacy ID: CRM-000632
+Varun,Mehta,varun.mehta57@outlook.com,+91-9681608557,Chennai,Tamil Nadu,India,1988-02-27,Partner Referral,false,Legacy ID: CRM-000633
+Tanvi,Dhillon,tanvi.dhillon@gmail.com,+91 65744 50999,Pune,Maharashtra,India,1969-11-26,Web,false,Legacy ID: CRM-000634
+Rohan,Rao,rohan.rao1997@gmail.com,08932135961,Mumbai,Maharashtra,India,1994-06-16,Web,true,Legacy ID: CRM-000635
+shreya,chopra,shreya.chopra1988@gmail.com,07987819214,Noida,Uttar Pradesh,India,1972-10-30,Web,false,Legacy ID: CRM-000636
+Rashmi,Jain,rashmi.jain11@yahoo.co.in,92758-04529,Mumbai,Maharashtra,India,1989-04-21,Other,false,Legacy ID: CRM-000637
+Siddharth,Kulkarni,siddharth.kulkarni87@gmail.com,9244756311,Pune,Maharashtra,India,1989-03-16,Partner Referral,true,Legacy ID: CRM-000638
+Pranav,Desai,pranav.desai43@outlook.com,7565418028,Gurugram,Haryana,India,1966-11-11,Partner Referral,true,Legacy ID: CRM-000639
+nisha,patel,nisha.patel@gmail.com,+91-8705203132,Pune,Maharashtra,India,1984-07-31,Web,true,Legacy ID: CRM-000640
+Lakshmi,Chauhan,lakshmi.chauhan@outlook.com,+91 78760 32087,Mumbai,Maharashtra,India,1975-03-18,Other,true,Legacy ID: CRM-000641
+Pallavi,Verma,pallavi.verma@hotmail.com,98939-77041,Noida,Uttar Pradesh,India,1982-12-07,Partner Referral,true,Legacy ID: CRM-000642
+Naveen,Shah,naveen.shah66@gmail.com,+91-7322912489,Hyderabad,Telangana,India,1995-05-22,Other,false,Legacy ID: CRM-000643
+Tanvi,Malhotra,tanvi.malhotra@hotmail.com,+91-6203398013,Chandigarh,Chandigarh,India,1993-01-06,Partner Referral,false,Legacy ID: CRM-000644
+Karan,Gupta,karan.gupta42@gmail.com,7772871565,Mumbai,Maharashtra,India,1980-05-25,Web,false,Legacy ID: CRM-000645
+karan,shah,karan.shah@hotmail.com,+91 87445 20302,Pune,Maharashtra,India,1978-06-20,Phone Inquiry,false,Legacy ID: CRM-000646
+Shalini,Joshi,shalini.joshi@gmail.com,+91 79138 13014,Mumbai,Maharashtra,India,1993-12-03,Web,false,Legacy ID: CRM-000647
+Deepak,Thakur,deepak.thakur1972@outlook.com,+91-6335683172,Chandigarh,Chandigarh,India,1994-05-23,Purchased List,false,Legacy ID: CRM-000648
+aYsh,Iyer,yash.iyer@gmail.com,63781-10570,Bengaluru,Karnataka,India,1965-08-12,Partner Referral,true,Legacy ID: CRM-000649
+HARSH,PANDEY,HARSH.PANDEY@HOTMAIL.COM,+91 90071 58009,Chennai,Tamil Nadu,India,1978-05-19,Phone Inquiry,false,Legacy ID: CRM-000650
+Harsh,Nair,harsh.nair1982@hotmail.com,07375909722,Chennai,Tamil Nadu,India,1974-06-29,Other,false,Legacy ID: CRM-000651
+Ankit,Verma,ankit.verma1983@gmail.com,9369323800,Jaipur,Rajasthan,India,2000-11-13,Other,false,Legacy ID: CRM-000652
+Vanana,Pillai,vandana.pillai@gmail.com,9552977601,Delhi,Delhi,India,2000-11-07,Purchased List,false,Legacy ID: CRM-000653
+Yash,Bhatia,yash.bhatia17@gmail.com,07683850957,Jaipur,Rajasthan,India,1966-06-28,Phone Inquiry,false,Legacy ID: CRM-000654
+G.,Rao,GAURAV.RAO1986@GMAIL.COM,+91 77700 62795,Hyderabad,Telangana,India,1984-03-10,Web,false,Legacy ID: CRM-000655
+Gaurav,Pillai,gaurav.pillai@gmail.com,06017078129,Delhi,Delhi,India,1990-02-04,Partner Referral,false,Legacy ID: CRM-000656
+Divya,Kapoor,divya.kapoor1979@gmail.com,77287-56798,Pune,Maharashtra,India,1969-04-20,Phone Inquiry,true,Legacy ID: CRM-000657
+Ramesh,Kulkarni,ramesh.kulkarni51@gmail.com,+91-9765419828,Chennai,Tamil Nadu,India,1973-09-11,Phone Inquiry,true,Legacy ID: CRM-000658
+Yash,Singh,yash.singh28@gmail.com,08525733090,Delhi,Delhi,India,1971-07-31,Web,false,Legacy ID: CRM-000659
+Nisha,Deshpande,nisha.deshpande72@gmail.com,06053669332,Chandigarh,Chandigarh,India,1972-02-24,Partner Referral,true,Legacy ID: CRM-000660
+S.,Sandhu,swati.sandhu@hotmail.com,+91-7792640532,Noida,Uttar Pradesh,India,1997-07-23,Web,false,Legacy ID: CRM-000661
+Reyansh,Singh,REYANSH.SINGH@YAHOO.CO.IN,+91-7567322348,Delhi,Delhi,India,1991-01-11,Web,false,Legacy ID: CRM-000662
+Swati,Joshi,swati.joshi@gmail.com,+91 77434 50968,Noida,Uttar Pradesh,India,1975-10-03,Web,false,Legacy ID: CRM-000663
+Simran,Pael,simran.patel@yahoo.co.in,9911612215,Chandigarh,Chandigarh,India,1993-08-22,Web,false,Legacy ID: CRM-000664
+Krishna,Greewal,krishna.grewal17@gmail.com,+91-6385500295,Gurugram,Haryana,India,1985-11-21,Phone Inquiry,false,Legacy ID: CRM-000665
+SANDEEP,PANDEY,sandeep.pandey@gmail.com,+91-8220940037,Chandigarh,Chandigarh,India,1976-06-08,Phone Inquiry,false,Legacy ID: CRM-000666
+Vikram,Kumar,vikram.kumar@hotmail.com,+91 99516 57121,Bengaluru,Karnataka,India,1995-06-26,Web,false,Legacy ID: CRM-000667
+kavya,khanna,kavya.khanna2001@hotmail.com,7062314596,Gurugram,Haryana,India,1981-02-12,Other,false,Legacy ID: CRM-000668
+Deepak,Das,deepak.das17@hotmail.com,66628-66034,Noida,Uttar Pradesh,India,1981-07-31,Web,false,Legacy ID: CRM-000669
+Imran,Chauhan,imran.chauhan@gmail.com,+91-7524235256,Mumbai,Maharashtra,India,1985-04-21,Web,false,Legacy ID: CRM-000670
+Roohan,Nair,rohan.nair@hotmail.com,6845605993,Bengaluru,Karnataka,India,1990-12-16,Web,false,Legacy ID: CRM-000671
+Lakshmi,Shah,lakshmi.shah@gmail.com,9120753136,Mumbai,Maharashtra,India,1986-07-26,Partner Referral,true,Legacy ID: CRM-000672
+Rahul,Gill,rahul.gill@gmail.com,82996-45744,Hyderabad,Telangana,India,1975-03-10,Web,true,Legacy ID: CRM-000673
+Pallvai,Malhotra,pallavi.malhotra1989@gmail.com,9585861888,Pune,Maharashtra,India,1971-11-20,Web,false,Legacy ID: CRM-000674
+Rashhmi,Joshi,rashmi.joshi@gmail.com,+91-7223954807,Jaipur,Rajasthan,India,1985-10-14,Partner Referral,true,Legacy ID: CRM-000675
+Imran,Gill,imran.gill@yahoo.co.in,09622821282,Gurugram,Haryana,India,1999-03-17,Other,false,Legacy ID: CRM-000676
+Pooja,Pandey,POOJA.PANDEY1997@GMAIL.COM,+91 66660 48531,Delhi,Delhi,India,1969-02-09,Phone Inquiry,false,Legacy ID: CRM-000677
+KIRAN,QURESHI,kiran.qureshi16@gmail.com,07781704836,Noida,Uttar Pradesh,India,2001-03-06,Web,false,Legacy ID: CRM-000678
+SHREYA,MALHOTRA,shreya.malhotra@gmail.com,09597276768,Gurugram,Haryana,India,1974-05-12,Phone Inquiry,true,Legacy ID: CRM-000679
+Zoya,Gill,zoya.gill@outlook.com,09233990761,Ahmedabad,Gujarat,India,1978-10-25,Other,false,Legacy ID: CRM-000680
+Zoya,Gill,,+91 92339 90761,Ahmedabad,Gujarat,India,,Phone Inquiry,false,Legacy ID: CRM-000681
+Divya,Kapoor,DIVYA.KAPOOR@OUTLOOK.COM,61086-16479,Bengaluru,Karnataka,India,1982-02-10,Other,false,Legacy ID: CRM-000682
+Deepak,Deshpande,deepak.deshpande@gmail.com,7372643205,Bengaluru,Karnataka,India,1994-10-24,Web,true,Legacy ID: CRM-000683
+S.,Patel,swati.patel@hotmail.com,09450240537,Pune,Maharashtra,India,1975-03-09,Phone Inquiry,false,Legacy ID: CRM-000684
+Tanvi,Bhardwaj,TANVI.BHARDWAJ46@GMAIL.COM,7405102658,Gurugram,Haryana,India,1977-08-12,Other,false,Legacy ID: CRM-000685
+Kiran,Gill,kiran.gill@yahoo.co.in,+91 66144 35754,Pune,Maharashtra,India,1973-05-01,Purchased List,true,Legacy ID: CRM-000686
+Harsh,Das,harsh.das@yahoo.co.in,07361391237,Mumbai,Maharashtra,India,1987-05-08,Phone Inquiry,false,Legacy ID: CRM-000687
+Arnnav,Deshpande,arnav.deshpande1986@hotmail.com,09280903178,Delhi,Delhi,India,1987-07-19,Other,true,Legacy ID: CRM-000688
+Kavya,Verma,kavya.verma@yahoo.co.in,+91-9991540273,Jaipur,Rajasthan,India,1965-03-13,Phone Inquiry,false,Legacy ID: CRM-000689
+Rahul,Qureshi,rahul.qureshi@hotmail.com,06093054847,Kolkata,West Bengal,India,1998-07-29,Web,false,Legacy ID: CRM-000690
+Seha,Singh,SNEHA.SINGH@HOTMAIL.COM,9615048849,Kolkata,West Bengal,India,1966-11-04,Web,true,Legacy ID: CRM-000691
+Zoya,Agarwal,zoya.agarwal58@gmail.com,+91 66412 27276,Delhi,Delhi,India,1993-07-29,Web,true,Legacy ID: CRM-000692
+Divya,Menon,divya.menon44@gmail.com,+91 71683 35766,Noida,Uttar Pradesh,India,1983-09-22,Phone Inquiry,true,Legacy ID: CRM-000693
+Priya,Mehta,priya.mehta@yahoo.co.in,9933686093,Mumbai,Maharashtra,India,1968-12-12,Phone Inquiry,false,Legacy ID: CRM-000694
+Pooja,Das,pooja.das@yahoo.co.in,8208348124,Delhi,Delhi,India,1966-05-07,Other,false,Legacy ID: CRM-000695
+Isha,Bhardwaj,isha.bhardwaj1998@yahoo.co.in,08818774499,Bangalore,Karnataka,India,1974-09-30,Web,true,Legacy ID: CRM-000696
+Mohit,Desai,mohit.desai1975@gmail.com,+91 94715 20351,Gurugram,Haryana,India,1975-01-15,Web,false,Legacy ID: CRM-000697
+Varun,Agarwal,varun.agarwal1995@gmail.com,09453714732,Delhi,Delhi,India,1973-01-21,Partner Referral,false,Legacy ID: CRM-000698
+pranav,gupta,pranav.gupta@yahoo.co.in,07475552672,Delhi,Delhi,India,1965-05-07,Web,true,Legacy ID: CRM-000699
+Kunal,Yadav,kunal.yadav@yahoo.co.in,6679323539,Mumbai,Maharashtra,India,1983-10-12,Web,false,Legacy ID: CRM-000700
+Lakshmi,Tiwari,lakshmi.tiwari@outlook.com,09468551902,Delhi,Delhi,India,1969-06-03,Web,false,Legacy ID: CRM-000701
+Divya,Shah,divya.shah@yahoo.co.in,95437-00984,Bengaluru,Karnataka,India,1965-06-25,Partner Referral,true,Legacy ID: CRM-000702
+Arjun,Pandey,arjun.pandey1974@gmail.com,06817003276,Chennai,Tamil Nadu,India,1968-10-18,Purchased List,false,Legacy ID: CRM-000703
+Manpreet,Ansari,MANPREET.ANSARI@YAHOO.CO.IN,+91 82019 30646,Mumbai,Maharashtra,India,1990-10-21,Other,false,Legacy ID: CRM-000704
+Reyansh,Arora,reyansh.arora6@outlook.com,78753-35526,Pune,Maharashtra,India,1970-07-23,Purchased List,false,Legacy ID: CRM-000705
+Harsh,Tiwari,harsh.tiwari1984@gmail.com,7293177865,Hyderabad,Telangana,India,1996-01-28,Web,false,Legacy ID: CRM-000706
+Rahul,Deshpande,rahul.deshpande@gmail.com,+91-7811575092,Noida,Uttar Pradesh,India,1996-06-25,Web,false,Legacy ID: CRM-000707
+Tarun,Desai,tarun.desai53@outlook.com,+91-8506943944,Delhi,Delhi,India,1992-11-29,Partner Referral,false,Legacy ID: CRM-000708
+Ishaan,Ansari,ishaan.ansari@hotmail.com,+91-8546202135,Gurugram,Haryana,India,2002-07-11,Web,true,Legacy ID: CRM-000709
+Lakshmi,Sethi,lakshmi.sethi44@gmail.com,+91-6060398107,Bengaluru,Karnataka,India,1965-01-08,Web,false,Legacy ID: CRM-000710
+Vikram,Banerjee,vikram.banerjee@outlook.com,08413336650,Noida,Uttar Pradesh,India,1984-09-14,Purchased List,false,Legacy ID: CRM-000711
+Mohit,Naidu,mohit.naidu1989@gmail.com,07191142999,Mumbai,Maharashtra,India,1981-03-26,Other,false,Legacy ID: CRM-000712
+Isha,Tiwari,isha.tiwari@gmail.com,80209-84469,Gurgaon,Haryana,India,1973-05-16,Purchased List,true,Legacy ID: CRM-000713
+Sneha,Qureshi,sneha.qureshi1987@gmail.com,83218-01130,Noida,Uttar Pradesh,India,1973-03-18,Purchased List,false,Legacy ID: CRM-000714
+Vivaan,Naidu,vivaan.naidu@yahoo.co.in,7202534238,Gurugram,Haryana,India,1997-10-28,Web,false,Legacy ID: CRM-000715
+SURESH,BANERJEE,suresh.banerjee7@yahoo.co.in,07107524003,Pune,Maharashtra,India,2001-01-30,Other,true,Legacy ID: CRM-000716
+Saanvi,Joshi,saanvi.joshi1983@outlook.com,96398-52381,Noida,Uttar Pradesh,India,1988-02-23,Partner Referral,false,Legacy ID: CRM-000717
+Krishna,Dhilllon,krishna.dhillon1993@hotmail.com,6169921353,Delhi,Delhi,India,1965-04-11,Phone Inquiry,true,Legacy ID: CRM-000718
+Sandeep,Khanna,sandeep.khanna@outlook.com,9351109674,Hyderabad,Telangana,India,1997-12-04,Phone Inquiry,false,Legacy ID: CRM-000719
+Manish,Kumar,manish.kumar@outlook.com,+91 64933 10886,Chennai,Tamil Nadu,India,2001-07-08,Phone Inquiry,true,Legacy ID: CRM-000720
+Nikhil,Khanna,nikhil.khanna@hotmail.com,+91-9223956721,Gurgaon,Haryana,India,2001-12-04,Partner Referral,false,Legacy ID: CRM-000721
+Lakshmmi,Menon,lakshmi.menon1983@hotmail.com,+91-6893972048,Chennai,Tamil Nadu,India,1998-03-01,Web,false,Legacy ID: CRM-000722
+Ihsa,Bhardwaj,isha.bhardwaj33@outlook.com,+91-8670207153,Delhi,Delhi,India,1995-03-24,Web,false,Legacy ID: CRM-000723
+Vivaan,Dhillon,vivaan.dhillon@outlook.com,+91-9442624470,Gurugram,Haryana,India,1985-10-11,Web,false,Legacy ID: CRM-000724
+Rahul,Chatterjee,rahul.chatterjee@yahoo.co.in,94053-62512,Gurugram,Haryana,India,1993-09-18,Purchased List,true,Legacy ID: CRM-000725
+Zoya,aJin,zoya.jain@gmail.com,+91-8426735384,Delhi,Delhi,India,1997-02-03,Partner Referral,false,Legacy ID: CRM-000726
+Dev,Desai,dev.desai@gmail.com,+91-7682950814,Hyderabad,Telangana,India,1975-04-27,Web,true,Legacy ID: CRM-000727
+tanvi,mishra,tanvi.mishra@gmail.com,06698826486,Chandigarh,Chandigarh,India,1980-10-10,Other,true,Legacy ID: CRM-000728
+Deepak,Verma,deepak.verma@gmail.com,+91-8396016099,Pune,Maharashtra,India,1981-03-05,Web,false,Legacy ID: CRM-000729
+Simran,Thakur,simran.thakur18@outlook.com,+91-9423935433,Pune,Maharashtra,India,1968-07-31,Partner Referral,true,Legacy ID: CRM-000730
+Krishna,Sharma,KRISHNA.SHARMA@GMAIL.COM,9965371557,Gurugram,Haryana,India,1967-12-10,Phone Inquiry,false,Legacy ID: CRM-000731
+Varun,Sinh,varun.singh1978@yahoo.co.in,+91 74148 50275,Mumbai,Maharashtra,India,1971-10-06,Purchased List,false,Legacy ID: CRM-000732
+Vandana,Mehta,vandana.mehta1985@gmail.com,89602-33159,Chennai,Tamil Nadu,India,1973-10-27,Other,false,Legacy ID: CRM-000733
+N.,Bose,naveen.bose@outlook.com,07413007886,Gurugram,Haryana,India,1980-03-13,Partner Referral,false,Legacy ID: CRM-000734
+Manpreet,Gupta,manpreet.gupta80@yahoo.co.in,+91 92865 18142,Delhi,Delhi,India,1969-10-04,Partner Referral,true,Legacy ID: CRM-000735
+K.,Chatterjee,krishna.chatterjee1995@outlook.com,9920327357,Pune,Maharashtra,India,1966-03-17,Partner Referral,false,Legacy ID: CRM-000736
+F.,Mishra,farhan.mishra63@gmail.com,63034-13653,Noida,Uttar Pradesh,India,1997-04-21,Web,true,Legacy ID: CRM-000737
+Arjun,Chauhan,arjun.chauhan@yahoo.co.in,+91-7370049174,Mumbai,Maharashtra,India,1984-08-03,Web,false,Legacy ID: CRM-000738
+Ankit,Arora,ankit.arora@hotmail.com,+91-7159007132,Bengaluru,Karnataka,India,1981-04-20,Web,true,Legacy ID: CRM-000739
+NIKHIL,NAIDU,nikhil.naidu1996@gmail.com,+91-7911645767,Jaipur,Rajasthan,India,1967-02-07,Purchased List,false,Legacy ID: CRM-000740
+RAHUL,JAIN,rahul.jain2002@yahoo.co.in,8875524529,Kolkata,West Bengal,India,1980-07-17,Web,false,Legacy ID: CRM-000741
+Pooja,Reddy,POOJA.REDDY84@OUTLOOK.COM,+91-6355669633,Gurugram,Haryana,India,1967-01-23,Web,false,Legacy ID: CRM-000742
+Nikhil,Bhardwaj,nikhil.bhardwaj40@yahoo.co.in,79368-42685,Hyderabad,Telangana,India,1969-01-22,Web,true,Legacy ID: CRM-000743
+GAURAV,ARORA,gaurav.arora25@hotmail.com,08381403075,Pune,Maharashtra,India,1988-09-27,Purchased List,false,Legacy ID: CRM-000744
+Manpreet,Rao,manpreet.rao83@yahoo.co.in,8547617275,Bengaluru,Karnataka,India,1973-01-23,Partner Referral,true,Legacy ID: CRM-000745
+Gaurav,Joshi,gaurav.joshi@outlook.com,62150-13433,Gurgaon,Haryana,India,1977-12-02,Web,true,Legacy ID: CRM-000746
+Gurpreet,Pandey,gurpreet.pandey@gmail.com,+91 84432 96914,Gurugram,Haryana,India,1975-09-21,Purchased List,false,Legacy ID: CRM-000747
+Ishaaan,Khan,ishaan.khan1973@hotmail.com,7853000900,Mumbai,Maharashtra,India,1983-01-21,Purchased List,false,Legacy ID: CRM-000748
+Vandana,Malhotra,vandana.malhotra38@gmail.com,07324656841,Mumbai,Maharashtra,India,1979-01-25,Partner Referral,true,Legacy ID: CRM-000749
+Saanvi,Bansal,saanvi.bansal@yahoo.co.in,73766-04142,Noida,Uttar Pradesh,India,1974-11-25,Other,false,Legacy ID: CRM-000750
+Dev,Agarwal,DEV.AGARWAL1982@GMAIL.COM,+91-7950149628,Gurugram,Haryana,India,1985-12-27,Web,false,Legacy ID: CRM-000751
+Vikram,Gupta,vikram.gupta70@yahoo.co.in,09288688792,Noida,Uttar Pradesh,India,1984-03-01,Web,false,Legacy ID: CRM-000752
+Gurpreet,Desai,gurpreet.desai@gmail.com,68380-16934,Hyderabad,Telangana,India,1993-05-02,Phone Inquiry,true,Legacy ID: CRM-000753
+Aarav,Mehta,aarav.mehta1976@gmail.com,08200239152,Bengaluru,Karnataka,India,1989-10-27,Web,false,Legacy ID: CRM-000754
+Diya,Banerjee,diya.banerjee@yahoo.co.in,+91 89031 77569,Gurugram,Haryana,India,2001-10-27,Web,true,Legacy ID: CRM-000755
+K.,Malhotra,krishna.malhotra@outlook.com,7267011678,Gurugram,Haryana,India,1979-05-08,Web,false,Legacy ID: CRM-000756
+Pranav,Gill,pranav.gill1972@gmail.com,08175304053,Bangalore,Karnataka,India,2000-09-05,Purchased List,true,Legacy ID: CRM-000757
+Arjun,Kapoor,arjun.kapoor82@hotmail.com,06170648579,Noida,Uttar Pradesh,India,1998-02-12,Partner Referral,false,Legacy ID: CRM-000758
+Arjun,Kapoor,,+91 61706 48579,Noida,Uttar Pradesh,India,,Phone Inquiry,false,Legacy ID: CRM-000759
+dAiti,Bose,aditi.bose@gmail.com,08567677619,Bengaluru,Karnataka,India,1971-11-17,Partner Referral,true,Legacy ID: CRM-000760
+Tnya,Sethi,tanya.sethi@yahoo.co.in,87024-09398,Noida,Uttar Pradesh,India,1976-12-16,Purchased List,false,Legacy ID: CRM-000761
+Nikhil,Gill,NIKHIL.GILL@HOTMAIL.COM,93628-86233,Bengaluru,Karnataka,India,1974-02-15,Purchased List,false,Legacy ID: CRM-000762
+Dev,Mehta,dev.mehta38@outlook.com,+91-8218842463,Gurugram,Haryana,India,1993-10-14,Web,false,Legacy ID: CRM-000763
+Swati,Sandhu,swati.sandhu@yahoo.co.in,+91 79987 59153,Delhi,Delhi,India,1977-06-21,Other,false,Legacy ID: CRM-000764
+ARJUN,PATEL,arjun.patel@hotmail.com,6879065061,Hyderabad,Telangana,India,1965-02-06,Web,false,Legacy ID: CRM-000765
+N.,Naidu,nisha.naidu@gmail.com,9028586966,Bengaluru,Karnataka,India,1979-08-27,Purchased List,true,Legacy ID: CRM-000766
+Amit,Singh,amit.singh@hotmail.com,6245940859,Gurugram,Haryana,India,1999-09-02,Web,false,Legacy ID: CRM-000767
+Manpreet,Gupta,manpreet.gupta@hotmail.com,88525-12258,Hyderabad,Telangana,India,1986-07-19,Web,false,Legacy ID: CRM-000768
+SIDDHARTH,SANDHU,siddharth.sandhu@gmail.com,79763-52946,Delhi,Delhi,India,1971-04-25,Partner Referral,false,Legacy ID: CRM-000769
+Neha,Gill,neha.gill64@yahoo.co.in,+91-7659338041,Chennai,Tamil Nadu,India,2001-07-27,Other,false,Legacy ID: CRM-000770
+Rasshmi,Patel,rashmi.patel@gmail.com,84351-10269,Noida,Uttar Pradesh,India,1973-08-15,Phone Inquiry,true,Legacy ID: CRM-000771
+RAHUL,ARORA,rahul.arora@hotmail.com,+91 62640 62606,Noida,Uttar Pradesh,India,1972-01-20,Other,false,Legacy ID: CRM-000772
+Neha,Patel,neha.patel@outlook.com,+91 70127 46901,Mumbai,Maharashtra,India,1985-12-08,Phone Inquiry,true,Legacy ID: CRM-000773
+Neha,Patel,,70127-46901,Mumbai,Maharashtra,India,,Phone Inquiry,false,Legacy ID: CRM-000774
+Reyansh,Arora,reyansh.arora40@gmail.com,09352356118,Hyderabad,Telangana,India,1971-03-24,Web,false,Legacy ID: CRM-000775
+Isha,Khanna,isha.khanna@gmail.com,7753531324,Jaipur,Rajasthan,India,2001-06-25,Purchased List,true,Legacy ID: CRM-000776
+Sneha,Singh,sneha.singh@yahoo.co.in,8948918529,Noida,Uttar Pradesh,India,1985-12-10,Web,false,Legacy ID: CRM-000777
+YASH,KHAN,yash.khan@gmail.com,09807202033,Chandigarh,Chandigarh,India,1974-11-11,Web,true,Legacy ID: CRM-000778
+Priya,Ansari,priya.ansari47@gmail.com,91905-65743,Chandigarh,Chandigarh,India,1975-12-12,Purchased List,false,Legacy ID: CRM-000779
+Aarav,Tiwari,aarav.tiwari@outlook.com,+91-6588681025,Kolkata,West Bengal,India,1987-03-22,Web,true,Legacy ID: CRM-000780
+Reyansh,Mishra,reyansh.mishra@gmail.com,+91-9000190073,Noida,Uttar Pradesh,India,1998-10-16,Purchased List,false,Legacy ID: CRM-000781
+Reyyansh,Yadav,reyansh.yadav74@outlook.com,+91-7213054284,Pune,Maharashtra,India,1978-06-20,Web,true,Legacy ID: CRM-000782
+Tanya,Yadav,tanya.yadav1971@hotmail.com,7632939702,Delhi,Delhi,India,1990-02-01,Purchased List,true,Legacy ID: CRM-000783
+Saanvi,Sethi,SAANVI.SETHI@YAHOO.CO.IN,+91-7497265571,Bangalore,Karnataka,India,1979-03-12,Other,false,Legacy ID: CRM-000784
+Saanvi,Sethi,,7497265571,Bengaluru,Karnataka,India,,Phone Inquiry,false,Legacy ID: CRM-000785
+Ankit,Banerjee,ankit.banerjee1982@yahoo.co.in,+91-7193465027,Ahmedabad,Gujarat,India,1974-04-08,Web,true,Legacy ID: CRM-000786
+Sneha,Grewal,SNEHA.GREWAL@YAHOO.CO.IN,87826-38803,Pune,Maharashtra,India,1997-01-31,Web,true,Legacy ID: CRM-000787
+Arjun,Khanna,arjun.khanna1989@yahoo.co.in,+91 87986 57168,Chennai,Tamil Nadu,India,1989-03-21,Other,false,Legacy ID: CRM-000788
+Swati,Sandhu,swati.sandhu@gmail.com,+91 75872 89467,Jaipur,Rajasthan,India,1982-05-19,Purchased List,false,Legacy ID: CRM-000789
+Dev,Das,dev.das82@gmail.com,9229511084,Delhi,Delhi,India,1978-04-15,Phone Inquiry,false,Legacy ID: CRM-000790
+vikram,kulkarni,vikram.kulkarni4@hotmail.com,9884573216,Delhi,Delhi,India,1976-12-08,Web,true,Legacy ID: CRM-000791
+Harpreet,Iyer,harpreet.iyer1988@outlook.com,+91-7028815208,Delhi,Delhi,India,1992-03-29,Purchased List,false,Legacy ID: CRM-000792
+Manpreet,Gupta,MANPREET.GUPTA1987@GMAIL.COM,79430-32502,Hyderabad,Telangana,India,1978-04-07,Web,false,Legacy ID: CRM-000793
+Riya,Chatterjee,riya.chatterjee1979@outlook.com,88033-08641,Pune,Maharashtra,India,1979-12-04,Partner Referral,false,Legacy ID: CRM-000794
+Nisha,Qureshi,nisha.qureshi1977@outlook.com,07772109074,Mumbai,Maharashtra,India,1986-09-24,Purchased List,true,Legacy ID: CRM-000795
+Vivaan,Verma,VIVAAN.VERMA1987@HOTMAIL.COM,+91-8737449666,Delhi,Delhi,India,1969-08-24,Other,true,Legacy ID: CRM-000796
+Ramesh,Sharma,ramesh.sharma1978@hotmail.com,+91 80439 35160,Delhi,Delhi,India,1990-02-24,Other,false,Legacy ID: CRM-000797
+I.,Arora,ishaan.arora@yahoo.co.in,88135-37642,Bangalore,Karnataka,India,1971-02-01,Web,false,Legacy ID: CRM-000798
+Pranav,Gupta,pranav.gupta@gmail.com,+91-6114997475,Mumbai,Maharashtra,India,1990-11-01,Partner Referral,true,Legacy ID: CRM-000799
+Rohit,Pandey,,60340-57368,Noida,Uttar Pradesh,India,1993-09-02,Purchased List,false,Legacy ID: CRM-000800
+pooja,gupta,pooja.gupta65@gmail.com,91699-16587,Mumbai,Maharashtra,India,1979-11-20,Web,false,Legacy ID: CRM-000801
+Ankit,Kulkarni,ankit.kulkarni1980@gmail.com,68291-27898,Kolkata,West Bengal,India,1978-02-09,Web,false,Legacy ID: CRM-000802
+Manpreet,Menon,manpreet.menon@gmail.com,8596707169,Delhi,Delhi,India,1966-08-17,Partner Referral,true,Legacy ID: CRM-000803
+Krishna,Chopra,krishna.chopra@gmail.com,+91-9822885427,Delhi,Delhi,India,2000-10-01,Purchased List,true,Legacy ID: CRM-000804
+Vikram,Chatterjee,vikram.chatterjee@gmail.com,+91 81316 67752,Delhi,Delhi,India,1984-04-15,Web,false,Legacy ID: CRM-000805
+Vivaan,Desai,vivaan.desai@hotmail.com,6767622702,Chennai,Tamil Nadu,India,1978-11-11,Partner Referral,true,Legacy ID: CRM-000806
+Vandana,Bansal,vandana.bansal@yahoo.co.in,+91-6615502613,Noida,Uttar Pradesh,India,1982-03-22,Web,false,Legacy ID: CRM-000807
+Deepak,Bhardwaj,deepak.bhardwaj@outlook.com,8261510705,Hyderabad,Telangana,India,1988-11-05,Partner Referral,false,Legacy ID: CRM-000808
+Nisha,Sandhu,nisha.sandhu@hotmail.com,+91 99263 56006,Gurugram,Haryana,India,1968-05-22,Phone Inquiry,true,Legacy ID: CRM-000809
+Yash,Chopra,YASH.CHOPRA@YAHOO.CO.IN,+91-6481297198,Gurugram,Haryana,India,2001-04-24,Purchased List,false,Legacy ID: CRM-000810
+Nikhil,Banerjee,nikhil.banerjee1990@gmail.com,+91-6580814033,Bengaluru,Karnataka,India,1980-04-23,Other,true,Legacy ID: CRM-000811
+ARNAV,SINGH,arnav.singh@gmail.com,+91-6862953223,Noida,Uttar Pradesh,India,1983-07-16,Purchased List,false,Legacy ID: CRM-000812
+Manish,Tiwari,manish.tiwari@yahoo.co.in,92762-23683,Delhi,Delhi,India,1998-03-05,Other,false,Legacy ID: CRM-000813
+Arnav,Nair,arnav.nair1978@hotmail.com,06771062945,Pune,Maharashtra,India,1977-06-14,Phone Inquiry,false,Legacy ID: CRM-000814
+Shalini,Yadav,shalini.yadav2000@outlook.com,8334225393,Delhi,Delhi,India,1985-06-19,Partner Referral,false,Legacy ID: CRM-000815
+Mohit,Qureshi,mohit.qureshi1985@yahoo.co.in,83202-54616,Mumbai,Maharashtra,India,1988-03-07,Phone Inquiry,true,Legacy ID: CRM-000816
+Deepak,Iyer,deepak.iyer73@hotmail.com,+91 72008 10014,Delhi,Delhi,India,1979-06-09,Web,false,Legacy ID: CRM-000817
+Priya,Gupta,priya.gupta@outlook.com,+91 74335 36757,Kolkata,West Bengal,India,1979-06-23,Web,false,Legacy ID: CRM-000818
+Vivaan,Grewal,vivaan.grewal@gmail.com,07806199074,Bengaluru,Karnataka,India,1970-05-16,Partner Referral,true,Legacy ID: CRM-000819
+V.,Sharma,vandana.sharma28@hotmail.com,7746021368,Gurugram,Haryana,India,1976-12-05,Purchased List,false,Legacy ID: CRM-000820
+Mohit,Kummar,mohit.kumar@gmail.com,72355-28587,Bengaluru,Karnataka,India,2000-10-08,Other,false,Legacy ID: CRM-000821
+Ramesh,Kulkarni,ramesh.kulkarni63@gmail.com,87464-55072,Mumbai,Maharashtra,India,1989-03-20,Web,true,Legacy ID: CRM-000822
+Ritika,Iyer,RITIKA.IYER1990@GMAIL.COM,60886-79744,Bengaluru,Karnataka,India,1973-09-12,Web,true,Legacy ID: CRM-000823
+Simran,Patel,simran.patel1987@gmail.com,07379226281,Bangalore,Karnataka,India,1975-12-27,Web,false,Legacy ID: CRM-000824
+Gurpreet,Malhotra,gurpreet.malhotra@hotmail.com,09097962914,Gurugram,Haryana,India,1998-09-10,Web,true,Legacy ID: CRM-000825
+N.,Pandey,nikhil.pandey@hotmail.com,09885874895,Mumbai,Maharashtra,India,2000-07-22,Other,true,Legacy ID: CRM-000826
+Rohit,Joshi,rohit.joshi62@yahoo.co.in,07721238487,Delhi,Delhi,India,1979-11-25,Purchased List,false,Legacy ID: CRM-000827
+Suresh,Bhatia,suresh.bhatia1990@hotmail.com,+91 84517 36585,Gurgaon,Haryana,India,1978-01-11,Other,false,Legacy ID: CRM-000828
+Tanyya,Jain,TANYA.JAIN@GMAIL.COM,+91-7597598096,Ahmedabad,Gujarat,India,1986-12-05,Partner Referral,true,Legacy ID: CRM-000829
+Kunal,Das,kunal.das@yahoo.co.in,7069672128,Delhi,Delhi,India,1988-05-11,Other,true,Legacy ID: CRM-000830
+Yash,Agarwal,yash.agarwal@gmail.com,+91 93908 58306,Delhi,Delhi,India,1989-01-12,Web,false,Legacy ID: CRM-000831
+Gauraav,Gupta,gaurav.gupta@gmail.com,+91-8410577250,Kolkata,West Bengal,India,1993-03-07,Web,false,Legacy ID: CRM-000832
+gurpreet,das,gurpreet.das@gmail.com,+91 62410 41507,Chandigarh,Chandigarh,India,1999-05-21,Partner Referral,false,Legacy ID: CRM-000833
+JASLEEN,KHAN,jasleen.khan@gmail.com,+91 80004 58408,Noida,Uttar Pradesh,India,1992-03-24,Other,true,Legacy ID: CRM-000834
+GAURAV,SHAH,gaurav.shah@gmail.com,+91-6488672514,Bengaluru,Karnataka,India,1974-06-16,Other,false,Legacy ID: CRM-000835
+Farhan,Agarwal,farhan.agarwal1984@gmail.com,+91-9912815016,Chennai,Tamil Nadu,India,1971-12-12,Phone Inquiry,true,Legacy ID: CRM-000836
+Kavya,Desai,kavya.desai1980@yahoo.co.in,+91 99474 50809,Gurugram,Haryana,India,1966-08-27,Web,true,Legacy ID: CRM-000837
+Rahul,Gill,rahul.gill@yahoo.co.in,65264-45829,Hyderabad,Telangana,India,1990-01-07,Partner Referral,false,Legacy ID: CRM-000838
+Tarun,Nair,tarun.nair@yahoo.co.in,+91-8155109542,Noida,Uttar Pradesh,India,1987-11-26,Web,true,Legacy ID: CRM-000839
+Naveen,Kapoor,naveen.kapoor@gmail.com,79378-13267,Bengaluru,Karnataka,India,1984-09-10,Partner Referral,false,Legacy ID: CRM-000840
+Manpreet,Mukherjee,manpreet.mukherjee@yahoo.co.in,,Hyderabad,Telangana,India,1995-10-22,Phone Inquiry,true,Legacy ID: CRM-000841
+Harsh,Ansari,harsh.ansari25@gmail.com,71779-05340,Chandigarh,Chandigarh,India,1965-09-15,Phone Inquiry,false,Legacy ID: CRM-000842
+Ramesh,Sharma,ramesh.sharma2002@gmail.com,08311543978,Delhi,Delhi,India,1995-03-23,Purchased List,false,Legacy ID: CRM-000843
+Ramesh,Sharma,,+91-8311543978,Delhi,Delhi,India,,Phone Inquiry,false,Legacy ID: CRM-000844
+Farhan,Desai,farhan.desai@gmail.com,7247892251,Hyderabad,Telangana,India,1988-09-30,Other,false,Legacy ID: CRM-000845
+Tana,Khanna,tanya.khanna@gmail.com,69200-56260,Gurugram,Haryana,India,1988-06-24,Other,true,Legacy ID: CRM-000846
+Diya,Kumar,diya.kumar@gmail.com,92540-14938,Delhi,Delhi,India,1981-03-12,Web,false,Legacy ID: CRM-000847
+Ishaan,Naidu,ishaan.naidu1993@hotmail.com,+91-6433315696,Delhi,Delhi,India,1995-05-18,Partner Referral,false,Legacy ID: CRM-000848
+N.,Reddy,neha.reddy@yahoo.co.in,82663-31614,Delhi,Delhi,India,1970-06-07,Other,false,Legacy ID: CRM-000849
+S.,Reddy,simran.reddy@gmail.com,+91 69005 67352,Mumbai,Maharashtra,India,1973-03-03,Phone Inquiry,false,Legacy ID: CRM-000850
+Arjun,Chopra,arjun.chopra13@yahoo.co.in,86024-92357,Bengaluru,Karnataka,India,1987-05-11,Web,false,Legacy ID: CRM-000851
+Amit,Banerjee,amit.banerjee@gmail.com,+91 77383 18172,Chandigarh,Chandigarh,India,1966-05-18,Web,false,Legacy ID: CRM-000852
+Rohan,Ansari,rohan.ansari66@gmail.com,07895159234,Chandigarh,Chandigarh,India,1973-06-13,Partner Referral,true,Legacy ID: CRM-000853
+Ria,Jain,riya.jain@gmail.com,81137-13463,Kolkata,West Bengal,India,2002-06-26,Purchased List,false,Legacy ID: CRM-000854
+Deepak,Singh,DEEPAK.SINGH@GMAIL.COM,08747334359,Gurugram,Haryana,India,1972-01-04,Web,true,Legacy ID: CRM-000855
+Varun,Sethi,VARUN.SETHI1970@GMAIL.COM,90118-59689,Gurugram,Haryana,India,1966-06-17,Other,false,Legacy ID: CRM-000856
+Varun,Sethi,,9011859689,Gurugram,Haryana,India,,Phone Inquiry,false,Legacy ID: CRM-000857
+Vandana,Msihra,vandana.mishra1995@hotmail.com,9399241611,Delhi,Delhi,India,1988-11-24,Purchased List,true,Legacy ID: CRM-000858
+Rashmi,Rao,rashmi.rao@gmail.com,+91-7573742142,Gurugram,Haryana,India,1970-01-08,Other,false,Legacy ID: CRM-000859
+Rohit,Saxxena,rohit.saxena@hotmail.com,+91 69558 77993,Bengaluru,Karnataka,India,1974-12-25,Web,false,Legacy ID: CRM-000860
+Saurabh,Thakur,saurabh.thakur@gmail.com,6330107535,Hyderabad,Telangana,India,1974-06-22,Web,true,Legacy ID: CRM-000861
+Saanvi,Bhatia,saanvi.bhatia@outlook.com,08391370858,Hyderabad,Telangana,India,2001-08-05,Web,true,Legacy ID: CRM-000862
+Saanvi,Bansal,saanvi.bansal@outlook.com,+91 71784 49883,Noida,Uttar Pradesh,India,2000-07-28,Web,false,Legacy ID: CRM-000863
+Kabir,Naidu,kabir.naidu44@outlook.com,+91 83715 64153,Kolkata,West Bengal,India,1974-07-25,Other,false,Legacy ID: CRM-000864
+Sandeep,Mishra,sandeep.mishra@gmail.com,+91 70937 31340,Hyderabad,Telangana,India,1993-04-22,Web,false,Legacy ID: CRM-000865
+Sneha,Gupta,SNEHA.GUPTA@GMAIL.COM,6670914465,Kolkata,West Bengal,India,1978-02-20,Purchased List,false,Legacy ID: CRM-000866
+Manpreet,Chauhan,manpreet.chauhan1991@gmail.com,+91 83150 71741,Gurugram,Haryana,India,1996-06-05,Web,false,Legacy ID: CRM-000867
+Aanya,Bhardwaj,ananya.bhardwaj@outlook.com,+91 80094 65846,Mumbai,Maharashtra,India,1998-09-24,Other,false,Legacy ID: CRM-000868
+Vandana,Desai,vandana.desai@outlook.com,75191-87162,Hyderabad,Telangana,India,1968-08-30,Phone Inquiry,false,Legacy ID: CRM-000869
+Varun,Malhotra,varun.malhotra@hotmail.com,99708-56759,Noida,Uttar Pradesh,India,1977-06-13,Purchased List,true,Legacy ID: CRM-000870
+Vandana,Agarwal,vandana.agarwal82@yahoo.co.in,82563-74484,Delhi,Delhi,India,1973-03-30,Phone Inquiry,false,Legacy ID: CRM-000871
+Manrpeet,Verma,,7769588708,Ahmedabad,Gujarat,India,1966-05-25,Web,true,Legacy ID: CRM-000872
+Saanvi,Bhardwaj,saanvi.bhardwaj@outlook.com,+91-8007961653,Mumbai,Maharashtra,India,1977-12-01,Other,false,Legacy ID: CRM-000873
+Nikhil,Patel,nikhil.patel@gmail.com,7501691569,Delhi,Delhi,India,1995-01-19,Other,false,Legacy ID: CRM-000874
+Ankit,Gill,ankit.gill@gmail.com,+91-8951120339,Gurugram,Haryana,India,1990-09-30,Purchased List,true,Legacy ID: CRM-000875
+Isha,Yadav,isha.yadav1980@hotmail.com,08637734850,Bengaluru,Karnataka,India,2001-07-07,Web,false,Legacy ID: CRM-000876
+Krishna,Nair,krishna.nair1989@outlook.com,92687-79388,Noida,Uttar Pradesh,India,1986-07-16,Purchased List,false,Legacy ID: CRM-000877
+Swati,Saxena,swati.saxena1994@hotmail.com,9524157318,Gurugram,Haryana,India,1990-06-05,Partner Referral,false,Legacy ID: CRM-000878
+Tanvi,Sethi,tanvi.sethi1998@gmail.com,+91 89635 50193,Hyderabad,Telangana,India,1982-10-01,Web,false,Legacy ID: CRM-000879
+AARAV,JAIN,aarav.jain@gmail.com,80061-38654,Bengaluru,Karnataka,India,1997-05-20,Purchased List,false,Legacy ID: CRM-000880
+Farhan,Nair,FARHAN.NAIR23@GMAIL.COM,80694-86175,Noida,Uttar Pradesh,India,1990-01-13,Partner Referral,true,Legacy ID: CRM-000881
+ROHAN,MENON,rohan.menon43@yahoo.co.in,7678650444,Jaipur,Rajasthan,India,1988-10-11,Partner Referral,false,Legacy ID: CRM-000882
+Krishna,Kumar,krishna.kumar54@outlook.com,08970424169,Noida,Uttar Pradesh,India,1966-12-24,Partner Referral,true,Legacy ID: CRM-000883
+Shreya,Bhatia,shreya.bhatia96@gmail.com,60541-71500,Chandigarh,Chandigarh,India,1985-02-17,Web,true,Legacy ID: CRM-000884
+Aanya,Mukherjee,AANYA.MUKHERJEE81@GMAIL.COM,+91-6667219228,Delhi,Delhi,India,1981-04-04,Web,true,Legacy ID: CRM-000885
+Varun,Saxena,varun.saxena1973@yahoo.co.in,+91-6205994476,Mumbai,Maharashtra,India,1983-08-13,Web,false,Legacy ID: CRM-000886
+Neha,Ansari,neha.ansari@outlook.com,06006658484,Chennai,Tamil Nadu,India,2002-07-11,Web,false,Legacy ID: CRM-000887
+Suresh,Pandey,SURESH.PANDEY88@GMAIL.COM,64479-05830,Bengaluru,Karnataka,India,1984-02-01,Phone Inquiry,false,Legacy ID: CRM-000888
+Isha,Sharma,isha.sharma16@hotmail.com,08738808427,Bengaluru,Karnataka,India,1972-05-07,Web,false,Legacy ID: CRM-000889
+Vivaan,Menon,vivaan.menon@gmail.com,8711788750,Bengaluru,Karnataka,India,1981-02-05,Other,true,Legacy ID: CRM-000890
+Priya,Gupta,priya.gupta@gmail.com,93607-12413,Mumbai,Maharashtra,India,1990-06-16,Other,false,Legacy ID: CRM-000891
+Divya,Khanna,DIVYA.KHANNA1990@HOTMAIL.COM,+91-8568150895,Chandigarh,Chandigarh,India,1986-06-26,Web,true,Legacy ID: CRM-000892
+Meera,Thaukr,meera.thakur1984@gmail.com,71960-25092,Bengaluru,Karnataka,India,1984-03-26,Phone Inquiry,false,Legacy ID: CRM-000893
+Imran,Ansari,imran.ansari2002@gmail.com,09368053738,Delhi,Delhi,India,1969-03-10,Phone Inquiry,true,Legacy ID: CRM-000894
+TANYA,KHAN,tanya.khan@yahoo.co.in,+91 75371 26887,Bengaluru,Karnataka,India,1973-12-26,Purchased List,true,Legacy ID: CRM-000895
+Diya,Agarwal,diya.agarwal@gmail.com,+91 71782 73059,Hyderabad,Telangana,India,1977-04-21,Web,true,Legacy ID: CRM-000896
+Vivaan,Rathore,vivaan.rathore2001@yahoo.co.in,8652554245,Gurugram,Haryana,India,1972-04-08,Partner Referral,false,Legacy ID: CRM-000897
+Tanya,Saxena,TANYA.SAXENA1984@GMAIL.COM,09386883392,Delhi,Delhi,India,1994-02-14,Other,false,Legacy ID: CRM-000898
+Gaurav,Joshi,gaurav.joshi1973@gmail.com,77149-26273,Ahmedabad,Gujarat,India,1982-07-06,Phone Inquiry,false,Legacy ID: CRM-000899
+Kunal,Kumar,kunal.kumar7@gmail.com,8954543001,Delhi,Delhi,India,1973-02-11,Other,true,Legacy ID: CRM-000900
+Farhan,Deshpande,farhan.deshpande14@gmail.com,+91 99107 08611,Bengaluru,Karnataka,India,1977-02-06,Purchased List,false,Legacy ID: CRM-000901
+RASHMI,DESAI,rashmi.desai@outlook.com,95053-47741,Chennai,Tamil Nadu,India,1989-02-10,Phone Inquiry,true,Legacy ID: CRM-000902
+Imran,Reddy,imran.reddy@hotmail.com,73016-43032,Mumbai,Maharashtra,India,1980-06-24,Web,false,Legacy ID: CRM-000903
+Aaya,Saxena,AANYA.SAXENA@YAHOO.CO.IN,76585-97024,Mumbai,Maharashtra,India,1999-05-29,Web,true,Legacy ID: CRM-000904
+Tanya,Arora,TANYA.ARORA@OUTLOOK.COM,09421815447,Ahmedabad,Gujarat,India,1992-11-21,Web,false,Legacy ID: CRM-000905
+Tarun,Jain,tarun.jain@yahoo.co.in,8333179313,Noida,Uttar Pradesh,India,1981-03-08,Other,false,Legacy ID: CRM-000906
+Aditya,Verma,ADITYA.VERMA1992@GMAIL.COM,09005125380,Hyderabad,Telangana,India,1974-05-05,Web,false,Legacy ID: CRM-000907
+DIYA,PILLAI,diya.pillai1995@yahoo.co.in,09531152438,Chennai,Tamil Nadu,India,1994-03-16,Web,false,Legacy ID: CRM-000908
+Ramesh,Chopra,ramesh.chopra12@gmail.com,+91 67591 44566,Noida,Uttar Pradesh,India,1997-02-19,Other,false,Legacy ID: CRM-000909
+Aarav,Bhardwaj,aarav.bhardwaj89@yahoo.co.in,9657329774,Gurugram,Haryana,India,1975-10-29,Phone Inquiry,true,Legacy ID: CRM-000910
+Aditi,Joshi,ADITI.JOSHI@YAHOO.CO.IN,09537305342,Bengaluru,Karnataka,India,2001-01-09,Web,false,Legacy ID: CRM-000911
+Rohn,Chatterjee,rohan.chatterjee29@outlook.com,8904117977,Gurgaon,Haryana,India,1992-11-24,Web,false,Legacy ID: CRM-000912
+Arnav,Yadav,arnav.yadav92@yahoo.co.in,08003031518,Delhi,Delhi,India,1995-10-14,Partner Referral,false,Legacy ID: CRM-000913
+MEERA,SAXENA,meera.saxena1986@gmail.com,71380-11557,Pune,Maharashtra,India,1981-07-12,Partner Referral,false,Legacy ID: CRM-000914
+NEHA,CHATTERJEE,neha.chatterjee@yahoo.co.in,8232434213,Noida,Uttar Pradesh,India,1973-11-07,Partner Referral,true,Legacy ID: CRM-000915
+Vivaan,Desai,vivaan.desai1980@outlook.com,+91-6782862558,Bengaluru,Karnataka,India,1985-10-09,Web,true,Legacy ID: CRM-000916
+Pooja,Chauhan,pooja.chauhan@outlook.com,+91-6538289812,Mumbai,Maharashtra,India,1977-02-07,Web,true,Legacy ID: CRM-000917
+Ankit,Kapoor,ankit.kapoor@outlook.com,+91-7888990888,Noida,Uttar Pradesh,India,1998-05-26,Web,false,Legacy ID: CRM-000918
+Harsh,Veerma,harsh.verma@gmail.com,83721-32677,Delhi,Delhi,India,1975-06-14,Web,false,Legacy ID: CRM-000919
+Meera,Gupta,meera.gupta@yahoo.co.in,68018-74729,Bengaluru,Karnataka,India,1982-05-23,Web,false,Legacy ID: CRM-000920
+Pooja,Jain,pooja.jain@gmail.com,+91 88881 18592,Gurugram,Haryana,India,1972-07-06,Web,false,Legacy ID: CRM-000921
+Swati,Mehta,swati.mehta@yahoo.co.in,85098-06353,Chennai,Tamil Nadu,India,1968-01-23,Partner Referral,false,Legacy ID: CRM-000922
+Nisha,Patel,nisha.patel4@gmail.com,+91-6924074135,Kolkata,West Bengal,India,1994-08-25,Web,true,Legacy ID: CRM-000923
+Varun,Chatterjjee,varun.chatterjee51@gmail.com,80146-83146,Delhi,Delhi,India,1982-06-06,Phone Inquiry,false,Legacy ID: CRM-000924
+Shalini,Chatterjee,shalini.chatterjee1979@yahoo.co.in,8396568872,Pune,Maharashtra,India,2000-02-15,Purchased List,false,Legacy ID: CRM-000925
+Zoya,Patel,zoya.patel@gmail.com,9453145955,Bengaluru,Karnataka,India,1978-09-07,Partner Referral,false,Legacy ID: CRM-000926
+Saurabh,Gill,saurabh.gill@gmail.com,06982450814,Gurugram,Haryana,India,1970-01-15,Other,false,Legacy ID: CRM-000927
+Vivan,Malhotra,vivaan.malhotra@gmail.com,+91 67622 80954,Delhi,Delhi,India,1966-08-16,Partner Referral,false,Legacy ID: CRM-000928
+D.,Yadav,diya.yadav@outlook.com,+91-7965612064,Gurugram,Haryana,India,1972-08-10,Phone Inquiry,false,Legacy ID: CRM-000929
+Ramesh,Rathore,ramesh.rathore1983@gmail.com,+91-6530673083,Chandigarh,Chandigarh,India,2000-07-07,Web,false,Legacy ID: CRM-000930
+Rahul,Mishra,rahul.mishra@gmail.com,7430768329,Bengaluru,Karnataka,India,1986-02-13,Web,false,Legacy ID: CRM-000931
+Nisha,Kapoor,nisha.kapoor85@gmail.com,61318-43413,Chennai,Tamil Nadu,India,1998-03-20,Other,true,Legacy ID: CRM-000932
+DIYA,VERMA,diya.verma@gmail.com,8564731168,Chandigarh,Chandigarh,India,1994-01-11,Phone Inquiry,false,Legacy ID: CRM-000933
+Kavya,Yadav,kavya.yadav65@gmail.com,09088041890,Delhi,Delhi,India,1985-12-18,Web,false,Legacy ID: CRM-000934
+Reyansh,Bose,reyansh.bose@gmail.com,06372293804,Chandigarh,Chandigarh,India,1983-01-10,Web,false,Legacy ID: CRM-000935
+sIhaan,Ansari,ishaan.ansari98@hotmail.com,+91-7874907264,Delhi,Delhi,India,1968-05-06,Web,false,Legacy ID: CRM-000936
+Sana,Desai,sana.desai30@hotmail.com,+91-6194670141,Gurugram,Haryana,India,1974-01-16,Web,false,Legacy ID: CRM-000937
+Palavi,Grewal,PALLAVI.GREWAL@YAHOO.CO.IN,7277606395,Mumbai,Maharashtra,India,1978-02-02,Purchased List,false,Legacy ID: CRM-000938
+Anjali,Ansari,anjali.ansari61@hotmail.com,68453-57777,Delhi,Delhi,India,1989-01-12,Other,true,Legacy ID: CRM-000939
+Sana,Rao,sana.rao@outlook.com,07445025670,Delhi,Delhi,India,1968-03-19,Phone Inquiry,true,Legacy ID: CRM-000940
+HARSH,VERMA,harsh.verma1999@gmail.com,+91 64336 97575,Hyderabad,Telangana,India,1965-12-17,Web,false,Legacy ID: CRM-000941
+Pooja,Deshpnde,pooja.deshpande@yahoo.co.in,8540289443,Gurugram,Haryana,India,1982-05-10,Other,false,Legacy ID: CRM-000942
+Kiran,Joshi,kiran.joshi2000@outlook.com,79141-83590,Hyderabad,Telangana,India,1967-05-24,Phone Inquiry,false,Legacy ID: CRM-000943
+Nisha,Nair,nisha.nair43@gmail.com,78740-75193,Bengaluru,Karnataka,India,1975-03-31,Other,false,Legacy ID: CRM-000944
+Kiran,Shah,kiran.shah@outlook.com,+91 78638 13032,Delhi,Delhi,India,1983-01-19,Partner Referral,false,Legacy ID: CRM-000945
+Tani,Mishra,tanvi.mishra@yahoo.co.in,08412176208,Mumbai,Maharashtra,India,1965-05-30,Web,true,Legacy ID: CRM-000946
+Tanvi,Mishra,,+91-8412176208,Mumbai,Maharashtra,India,,Phone Inquiry,false,Legacy ID: CRM-000947
+Anannya,Verma,ananya.verma1997@gmail.com,+91 60192 33152,Noida,Uttar Pradesh,India,1985-09-25,Partner Referral,false,Legacy ID: CRM-000948

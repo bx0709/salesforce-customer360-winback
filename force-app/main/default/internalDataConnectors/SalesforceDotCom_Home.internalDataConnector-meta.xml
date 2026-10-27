@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<InternalDataConnector xmlns="http://soap.sforce.com/2006/04/metadata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <alias>Home</alias>
+    <dataConnectionStatus>Connected</dataConnectionStatus>
+    <dataConnectorType>SalesforceDotCom</dataConnectorType>
+    <dataPlatform>Salesforce_Sales_and_Service_Cloud</dataPlatform>
+    <dataSourceTenant>SalesforceDotCom_Home</dataSourceTenant>
+    <dataSpace xsi:nil="true"/>
+    <externalRecordId>00Dfj00000JgMM9</externalRecordId>
+    <isMetadataSync>true</isMetadataSync>
+    <masterLabel>Salesforce Connector Onecom Home</masterLabel>
+</InternalDataConnector>

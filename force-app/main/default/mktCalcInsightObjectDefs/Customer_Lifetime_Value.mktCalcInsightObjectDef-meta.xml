@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MktCalcInsightObjectDef xmlns="http://soap.sforce.com/2006/04/metadata">
+    <creationType>Custom</creationType>
+    <expression>SELECT
+    ssot__SalesOrder__dlm.ssot__SoldToCustomerId__c AS customer_id__c,
+    SUM(ssot__SalesOrder__dlm.ssot__TotalAmount__c) AS lifetime_revenue__c,
+    COUNT(ssot__SalesOrder__dlm.ssot__Id__c) AS lifetime_order_count__c
+FROM ssot__SalesOrder__dlm
+GROUP BY ssot__SalesOrder__dlm.ssot__SoldToCustomerId__c</expression>
+    <masterLabel>Customer Lifetime Value</masterLabel>
+</MktCalcInsightObjectDef>
